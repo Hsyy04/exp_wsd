@@ -1,0 +1,8112 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE corpus SYSTEM "lexical-sample.dtd">
+
+<corpus lang="Chinese">
+
+<lexelt item="叫">
+
+<instance id="叫.1">
+<answer instance="叫.1" senseid=""/>
+<context>
+
+就是这卤牛肉，它能<head>叫</head>人白手起家成万元、十万元、百万元户。
+
+</context>
+<postagging>
+<word id="0" pos="d">
+<token>就</token>
+</word>
+<word id="1" pos="v">
+<token>是</token>
+</word>
+<word id="2" pos="r">
+<token>这</token>
+</word>
+<word id="3" pos="v">
+<token>卤</token>
+</word>
+<word id="4" pos="n">
+<token>牛肉</token>
+</word>
+<word id="5" pos="w">
+<token>，</token>
+</word>
+<word id="6" pos="r">
+<token>它</token>
+</word>
+<word id="7" pos="v">
+<token>能</token>
+</word>
+<word id="8" pos="v">
+<token>叫</token>
+</word>
+<word id="9" pos="n">
+<token>人</token>
+</word>
+<word id="10" pos="i">
+<token>白手起家</token>
+</word>
+<word id="11" pos="m">
+<token>成万</token>
+</word>
+<word id="12" pos="q">
+<token>元</token>
+</word>
+<word id="13" pos="w">
+<token>、</token>
+</word>
+<word id="14" pos="m">
+<token>十万</token>
+</word>
+<word id="15" pos="q">
+<token>元</token>
+</word>
+<word id="16" pos="w">
+<token>、</token>
+</word>
+<word id="17" pos="m">
+<token>百万</token>
+</word>
+<word id="18" pos="q">
+<token>元</token>
+</word>
+<word id="19" pos="Ng">
+<token>户</token>
+</word>
+<word id="20" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.2">
+<answer instance="叫.2" senseid=""/>
+<context>
+
+上菜的太监那个馋相，祖父的师祖说不出来，只有一脸记忆，我也就记不下来，只觉祖父说这话时眉头一皱，眼睛一小，嘴几撇，一脸不屑与鄙薄，<head>叫</head>我至今忘不得。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>上</token>
+</word>
+<word id="1" pos="n">
+<token>菜</token>
+</word>
+<word id="2" pos="u">
+<token>的</token>
+</word>
+<word id="3" pos="n">
+<token>太监</token>
+</word>
+<word id="4" pos="r">
+<token>那个</token>
+</word>
+<word id="5" pos="n">
+<token>馋相</token>
+</word>
+<word id="6" pos="w">
+<token>，</token>
+</word>
+<word id="7" pos="n">
+<token>祖父</token>
+</word>
+<word id="8" pos="u">
+<token>的</token>
+</word>
+<word id="9" pos="n">
+<token>师祖</token>
+</word>
+<word id="10" pos="v">
+<token>说</token>
+</word>
+<word id="11" pos="d">
+<token>不</token>
+</word>
+<word id="12" pos="v">
+<token>出来</token>
+</word>
+<word id="13" pos="w">
+<token>，</token>
+</word>
+<word id="14" pos="d">
+<token>只</token>
+</word>
+<word id="15" pos="v">
+<token>有</token>
+</word>
+<word id="16" pos="m">
+<token>一</token>
+</word>
+<word id="17" pos="q">
+<token>脸</token>
+</word>
+<word id="18" pos="vn">
+<token>记忆</token>
+</word>
+<word id="19" pos="w">
+<token>，</token>
+</word>
+<word id="20" pos="r">
+<token>我</token>
+</word>
+<word id="21" pos="d">
+<token>也</token>
+</word>
+<word id="22" pos="d">
+<token>就</token>
+</word>
+<word id="23" pos="v">
+<token>记</token>
+</word>
+<word id="24" pos="d">
+<token>不</token>
+</word>
+<word id="25" pos="v">
+<token>下来</token>
+</word>
+<word id="26" pos="w">
+<token>，</token>
+</word>
+<word id="27" pos="d">
+<token>只</token>
+</word>
+<word id="28" pos="v">
+<token>觉</token>
+</word>
+<word id="29" pos="n">
+<token>祖父</token>
+</word>
+<word id="30" pos="v">
+<token>说</token>
+</word>
+<word id="31" pos="r">
+<token>这</token>
+</word>
+<word id="32" pos="n">
+<token>话</token>
+</word>
+<word id="33" pos="Ng">
+<token>时</token>
+</word>
+<word id="34" pos="i">
+<token>眉头一皱</token>
+</word>
+<word id="35" pos="w">
+<token>，</token>
+</word>
+<word id="36" pos="n">
+<token>眼睛</token>
+</word>
+<word id="37" pos="d">
+<token>一</token>
+</word>
+<word id="38" pos="a">
+<token>小</token>
+</word>
+<word id="39" pos="w">
+<token>，</token>
+</word>
+<word id="40" pos="n">
+<token>嘴</token>
+</word>
+<word id="41" pos="m">
+<token>几</token>
+</word>
+<word id="42" pos="v">
+<token>撇</token>
+</word>
+<word id="43" pos="w">
+<token>，</token>
+</word>
+<word id="44" pos="m">
+<token>一</token>
+</word>
+<word id="45" pos="q">
+<token>脸</token>
+</word>
+<word id="46" pos="v">
+<token>不屑</token>
+</word>
+<word id="47" pos="c">
+<token>与</token>
+</word>
+<word id="48" pos="v">
+<token>鄙薄</token>
+</word>
+<word id="49" pos="w">
+<token>，</token>
+</word>
+<word id="50" pos="v">
+<token>叫</token>
+</word>
+<word id="51" pos="r">
+<token>我</token>
+</word>
+<word id="52" pos="d">
+<token>至今</token>
+</word>
+<word id="53" pos="v">
+<token>忘</token>
+</word>
+<word id="54" pos="d">
+<token>不</token>
+</word>
+<word id="55" pos="u">
+<token>得</token>
+</word>
+<word id="56" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.3">
+<answer instance="叫.3" senseid=""/>
+<context>
+
+”简直是当理不让，入木三分，读来<head>叫</head>人击节。
+
+</context>
+<postagging>
+<word id="0" pos="w">
+<token>”</token>
+</word>
+<word id="1" pos="d">
+<token>简直</token>
+</word>
+<word id="2" pos="v">
+<token>是</token>
+</word>
+<word id="3" pos="v">
+<token>当</token>
+</word>
+<word id="4" pos="n">
+<token>理</token>
+</word>
+<word id="5" pos="d">
+<token>不</token>
+</word>
+<word id="6" pos="v">
+<token>让</token>
+</word>
+<word id="7" pos="w">
+<token>，</token>
+</word>
+<word id="8" pos="i">
+<token>入木三分</token>
+</word>
+<word id="9" pos="w">
+<token>，</token>
+</word>
+<word id="10" pos="v">
+<token>读</token>
+</word>
+<word id="11" pos="v">
+<token>来</token>
+</word>
+<word id="12" pos="v">
+<token>叫</token>
+</word>
+<word id="13" pos="n">
+<token>人</token>
+</word>
+<word id="14" pos="Vg">
+<token>击</token>
+</word>
+<word id="15" pos="n">
+<token>节</token>
+</word>
+<word id="16" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.4">
+<answer instance="叫.4" senseid=""/>
+<context>
+
+盘龙江一度污秽不堪、恶臭冲天，<head>叫</head>人心痛。
+
+</context>
+<postagging>
+<word id="0" pos="ns">
+<token>盘龙江</token>
+</word>
+<word id="1" pos="d">
+<token>一度</token>
+</word>
+<word id="2" pos="n">
+<token>污秽</token>
+</word>
+<word id="3" pos="v">
+<token>不堪</token>
+</word>
+<word id="4" pos="w">
+<token>、</token>
+</word>
+<word id="5" pos="n">
+<token>恶臭</token>
+</word>
+<word id="6" pos="z">
+<token>冲天</token>
+</word>
+<word id="7" pos="w">
+<token>，</token>
+</word>
+<word id="8" pos="v">
+<token>叫</token>
+</word>
+<word id="9" pos="n">
+<token>人</token>
+</word>
+<word id="10" pos="a">
+<token>心痛</token>
+</word>
+<word id="11" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.5">
+<answer instance="叫.5" senseid=""/>
+<context>
+
+世上竟有如此逼真的塑像，真<head>叫</head>我不能不叹服泰国的艺术家。
+
+</context>
+<postagging>
+<word id="0" pos="s">
+<token>世上</token>
+</word>
+<word id="1" pos="d">
+<token>竟</token>
+</word>
+<word id="2" pos="v">
+<token>有</token>
+</word>
+<word id="3" pos="r">
+<token>如此</token>
+</word>
+<word id="4" pos="a">
+<token>逼真</token>
+</word>
+<word id="5" pos="u">
+<token>的</token>
+</word>
+<word id="6" pos="n">
+<token>塑像</token>
+</word>
+<word id="7" pos="w">
+<token>，</token>
+</word>
+<word id="8" pos="d">
+<token>真</token>
+</word>
+<word id="9" pos="v">
+<token>叫</token>
+</word>
+<word id="10" pos="r">
+<token>我</token>
+</word>
+<word id="11" pos="d">
+<token>不能不</token>
+</word>
+<word id="12" pos="vn">
+<token>叹服</token>
+</word>
+<word id="13" pos="ns">
+<token>泰国</token>
+</word>
+<word id="14" pos="u">
+<token>的</token>
+</word>
+<word id="15" pos="n">
+<token>艺术家</token>
+</word>
+<word id="16" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.6">
+<answer instance="叫.6" senseid=""/>
+<context>
+
+读到最快的新闻，得知今天的气温，拿到出门的地图，下载急需的软件，都能<head>叫</head>人长出一口气。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>读</token>
+</word>
+<word id="1" pos="v">
+<token>到</token>
+</word>
+<word id="2" pos="d">
+<token>最</token>
+</word>
+<word id="3" pos="a">
+<token>快</token>
+</word>
+<word id="4" pos="u">
+<token>的</token>
+</word>
+<word id="5" pos="n">
+<token>新闻</token>
+</word>
+<word id="6" pos="w">
+<token>，</token>
+</word>
+<word id="7" pos="v">
+<token>得知</token>
+</word>
+<word id="8" pos="t">
+<token>今天</token>
+</word>
+<word id="9" pos="u">
+<token>的</token>
+</word>
+<word id="10" pos="n">
+<token>气温</token>
+</word>
+<word id="11" pos="w">
+<token>，</token>
+</word>
+<word id="12" pos="v">
+<token>拿</token>
+</word>
+<word id="13" pos="v">
+<token>到</token>
+</word>
+<word id="14" pos="v">
+<token>出门</token>
+</word>
+<word id="15" pos="u">
+<token>的</token>
+</word>
+<word id="16" pos="n">
+<token>地图</token>
+</word>
+<word id="17" pos="w">
+<token>，</token>
+</word>
+<word id="18" pos="v">
+<token>下载</token>
+</word>
+<word id="19" pos="v">
+<token>急需</token>
+</word>
+<word id="20" pos="u">
+<token>的</token>
+</word>
+<word id="21" pos="n">
+<token>软件</token>
+</word>
+<word id="22" pos="w">
+<token>，</token>
+</word>
+<word id="23" pos="d">
+<token>都</token>
+</word>
+<word id="24" pos="v">
+<token>能</token>
+</word>
+<word id="25" pos="v">
+<token>叫</token>
+</word>
+<word id="26" pos="n">
+<token>人</token>
+</word>
+<word id="27" pos="a">
+<token>长</token>
+</word>
+<word id="28" pos="v">
+<token>出</token>
+</word>
+<word id="29" pos="m">
+<token>一</token>
+</word>
+<word id="30" pos="q">
+<token>口</token>
+</word>
+<word id="31" pos="n">
+<token>气</token>
+</word>
+<word id="32" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.7">
+<answer instance="叫.7" senseid=""/>
+<context>
+
+三年来被温书军无故殴打的就有26人之多，就这样一伙恶贯满盈的犯罪分子，检察机关竟以事实不清，证据不足，不予批捕，使温更加嚣张，并扬言谁要到公安局再告他就<head>叫</head>他白刀子进红刀子出。
+
+</context>
+<postagging>
+<word id="0" pos="m">
+<token>三</token>
+</word>
+<word id="1" pos="q">
+<token>年</token>
+</word>
+<word id="2" pos="f">
+<token>来</token>
+</word>
+<word id="3" pos="p">
+<token>被</token>
+</word>
+<word id="4" pos="nr">
+<token>温</token>
+</word>
+<word id="5" pos="nr">
+<token>书军</token>
+</word>
+<word id="6" pos="d">
+<token>无故</token>
+</word>
+<word id="7" pos="v">
+<token>殴打</token>
+</word>
+<word id="8" pos="u">
+<token>的</token>
+</word>
+<word id="9" pos="d">
+<token>就</token>
+</word>
+<word id="10" pos="v">
+<token>有</token>
+</word>
+<word id="11" pos="m">
+<token>26</token>
+</word>
+<word id="12" pos="n">
+<token>人</token>
+</word>
+<word id="13" pos="u">
+<token>之</token>
+</word>
+<word id="14" pos="a">
+<token>多</token>
+</word>
+<word id="15" pos="w">
+<token>，</token>
+</word>
+<word id="16" pos="d">
+<token>就</token>
+</word>
+<word id="17" pos="r">
+<token>这样</token>
+</word>
+<word id="18" pos="m">
+<token>一</token>
+</word>
+<word id="19" pos="q">
+<token>伙</token>
+</word>
+<word id="20" pos="i">
+<token>恶贯满盈</token>
+</word>
+<word id="21" pos="u">
+<token>的</token>
+</word>
+<word id="22" pos="vn">
+<token>犯罪</token>
+</word>
+<word id="23" pos="n">
+<token>分子</token>
+</word>
+<word id="24" pos="w">
+<token>，</token>
+</word>
+<word id="25" pos="b">
+<token>检察</token>
+</word>
+<word id="26" pos="n">
+<token>机关</token>
+</word>
+<word id="27" pos="d">
+<token>竟</token>
+</word>
+<word id="28" pos="p">
+<token>以</token>
+</word>
+<word id="29" pos="n">
+<token>事实</token>
+</word>
+<word id="30" pos="d">
+<token>不</token>
+</word>
+<word id="31" pos="a">
+<token>清</token>
+</word>
+<word id="32" pos="w">
+<token>，</token>
+</word>
+<word id="33" pos="n">
+<token>证据</token>
+</word>
+<word id="34" pos="a">
+<token>不足</token>
+</word>
+<word id="35" pos="w">
+<token>，</token>
+</word>
+<word id="36" pos="v">
+<token>不予</token>
+</word>
+<word id="37" pos="vn">
+<token>批捕</token>
+</word>
+<word id="38" pos="w">
+<token>，</token>
+</word>
+<word id="39" pos="v">
+<token>使</token>
+</word>
+<word id="40" pos="nr">
+<token>温</token>
+</word>
+<word id="41" pos="d">
+<token>更加</token>
+</word>
+<word id="42" pos="a">
+<token>嚣张</token>
+</word>
+<word id="43" pos="w">
+<token>，</token>
+</word>
+<word id="44" pos="c">
+<token>并</token>
+</word>
+<word id="45" pos="v">
+<token>扬言</token>
+</word>
+<word id="46" pos="r">
+<token>谁</token>
+</word>
+<word id="47" pos="v">
+<token>要</token>
+</word>
+<word id="48" pos="v">
+<token>到</token>
+</word>
+<word id="49" pos="n">
+<token>公安局</token>
+</word>
+<word id="50" pos="d">
+<token>再</token>
+</word>
+<word id="51" pos="v">
+<token>告</token>
+</word>
+<word id="52" pos="r">
+<token>他</token>
+</word>
+<word id="53" pos="d">
+<token>就</token>
+</word>
+<word id="54" pos="v">
+<token>叫</token>
+</word>
+<word id="55" pos="r">
+<token>他</token>
+</word>
+<word id="56" pos="a">
+<token>白</token>
+</word>
+<word id="57" pos="n">
+<token>刀子</token>
+</word>
+<word id="58" pos="v">
+<token>进</token>
+</word>
+<word id="59" pos="a">
+<token>红</token>
+</word>
+<word id="60" pos="n">
+<token>刀子</token>
+</word>
+<word id="61" pos="v">
+<token>出</token>
+</word>
+<word id="62" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.8">
+<answer instance="叫.8" senseid=""/>
+<context>
+
+停车费转嫁到乘客身上，又<head>叫</head>我们吃了一惊。
+
+</context>
+<postagging>
+<word id="0" pos="n">
+<token>停车费</token>
+</word>
+<word id="1" pos="v">
+<token>转嫁</token>
+</word>
+<word id="2" pos="v">
+<token>到</token>
+</word>
+<word id="3" pos="n">
+<token>乘客</token>
+</word>
+<word id="4" pos="s">
+<token>身上</token>
+</word>
+<word id="5" pos="w">
+<token>，</token>
+</word>
+<word id="6" pos="d">
+<token>又</token>
+</word>
+<word id="7" pos="v">
+<token>叫</token>
+</word>
+<word id="8" pos="r">
+<token>我们</token>
+</word>
+<word id="9" pos="v">
+<token>吃</token>
+</word>
+<word id="10" pos="u">
+<token>了</token>
+</word>
+<word id="11" pos="m">
+<token>一</token>
+</word>
+<word id="12" pos="Ng">
+<token>惊</token>
+</word>
+<word id="13" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.9">
+<answer instance="叫.9" senseid=""/>
+<context>
+
+他<head>叫</head>我想起了中世纪的清教徒，还有那位面壁十年的达摩。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>他</token>
+</word>
+<word id="1" pos="v">
+<token>叫</token>
+</word>
+<word id="2" pos="r">
+<token>我</token>
+</word>
+<word id="3" pos="v">
+<token>想起</token>
+</word>
+<word id="4" pos="u">
+<token>了</token>
+</word>
+<word id="5" pos="t">
+<token>中世纪</token>
+</word>
+<word id="6" pos="u">
+<token>的</token>
+</word>
+<word id="7" pos="n">
+<token>清教徒</token>
+</word>
+<word id="8" pos="w">
+<token>，</token>
+</word>
+<word id="9" pos="v">
+<token>还有</token>
+</word>
+<word id="10" pos="r">
+<token>那位</token>
+</word>
+<word id="11" pos="Vg">
+<token>面</token>
+</word>
+<word id="12" pos="Ng">
+<token>壁</token>
+</word>
+<word id="13" pos="m">
+<token>十</token>
+</word>
+<word id="14" pos="q">
+<token>年</token>
+</word>
+<word id="15" pos="u">
+<token>的</token>
+</word>
+<word id="16" pos="nr">
+<token>达摩</token>
+</word>
+<word id="17" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.10">
+<answer instance="叫.10" senseid=""/>
+<context>
+
+这便<head>叫</head>我们一下子触摸到中华民族在数千年时间长河中生生不息的那个精灵，在一部浩瀚又多难的历史大书中那个奋斗不已的魂魄，还有，黄河流域无处不在的那种浓烈醉人的人文气息。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>这</token>
+</word>
+<word id="1" pos="d">
+<token>便</token>
+</word>
+<word id="2" pos="v">
+<token>叫</token>
+</word>
+<word id="3" pos="r">
+<token>我们</token>
+</word>
+<word id="4" pos="m">
+<token>一下子</token>
+</word>
+<word id="5" pos="v">
+<token>触摸</token>
+</word>
+<word id="6" pos="v">
+<token>到</token>
+</word>
+<word id="7" pos="n">
+<token>中华民族</token>
+</word>
+<word id="8" pos="p">
+<token>在</token>
+</word>
+<word id="9" pos="m">
+<token>数千</token>
+</word>
+<word id="10" pos="q">
+<token>年</token>
+</word>
+<word id="11" pos="n">
+<token>时间</token>
+</word>
+<word id="12" pos="n">
+<token>长河</token>
+</word>
+<word id="13" pos="f">
+<token>中</token>
+</word>
+<word id="14" pos="i">
+<token>生生不息</token>
+</word>
+<word id="15" pos="u">
+<token>的</token>
+</word>
+<word id="16" pos="r">
+<token>那个</token>
+</word>
+<word id="17" pos="n">
+<token>精灵</token>
+</word>
+<word id="18" pos="w">
+<token>，</token>
+</word>
+<word id="19" pos="p">
+<token>在</token>
+</word>
+<word id="20" pos="m">
+<token>一</token>
+</word>
+<word id="21" pos="q">
+<token>部</token>
+</word>
+<word id="22" pos="z">
+<token>浩瀚</token>
+</word>
+<word id="23" pos="d">
+<token>又</token>
+</word>
+<word id="24" pos="a">
+<token>多</token>
+</word>
+<word id="25" pos="a">
+<token>难</token>
+</word>
+<word id="26" pos="u">
+<token>的</token>
+</word>
+<word id="27" pos="n">
+<token>历史</token>
+</word>
+<word id="28" pos="a">
+<token>大</token>
+</word>
+<word id="29" pos="n">
+<token>书</token>
+</word>
+<word id="30" pos="f">
+<token>中</token>
+</word>
+<word id="31" pos="r">
+<token>那个</token>
+</word>
+<word id="32" pos="v">
+<token>奋斗</token>
+</word>
+<word id="33" pos="v">
+<token>不已</token>
+</word>
+<word id="34" pos="u">
+<token>的</token>
+</word>
+<word id="35" pos="n">
+<token>魂魄</token>
+</word>
+<word id="36" pos="w">
+<token>，</token>
+</word>
+<word id="37" pos="v">
+<token>还有</token>
+</word>
+<word id="38" pos="w">
+<token>，</token>
+</word>
+<word id="39" pos="ns">
+<token>
+黄河流域
+</token>
+<subword id="0" pos="ns">
+<token>黄河</token>
+</subword>
+<subword id="1" pos="nh">
+<token>流域</token>
+</subword>
+</word>
+<word id="40" pos="l">
+<token>无处不在</token>
+</word>
+<word id="41" pos="u">
+<token>的</token>
+</word>
+<word id="42" pos="r">
+<token>那种</token>
+</word>
+<word id="43" pos="ad">
+<token>浓烈</token>
+</word>
+<word id="44" pos="v">
+<token>醉人</token>
+</word>
+<word id="45" pos="u">
+<token>的</token>
+</word>
+<word id="46" pos="n">
+<token>人文</token>
+</word>
+<word id="47" pos="n">
+<token>气息</token>
+</word>
+<word id="48" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.11">
+<answer instance="叫.11" senseid=""/>
+<context>
+
+他老老实实地说，最初在上海学漫画，他主要是模仿一个<head>叫</head>“萨巴乔”的外国人，因为那时上海的英文报《字林西报》经常发表萨氏的国际时事漫画。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>他</token>
+</word>
+<word id="1" pos="z">
+<token>老老实实</token>
+</word>
+<word id="2" pos="u">
+<token>地</token>
+</word>
+<word id="3" pos="v">
+<token>说</token>
+</word>
+<word id="4" pos="w">
+<token>，</token>
+</word>
+<word id="5" pos="d">
+<token>最初</token>
+</word>
+<word id="6" pos="p">
+<token>在</token>
+</word>
+<word id="7" pos="ns">
+<token>上海</token>
+</word>
+<word id="8" pos="v">
+<token>学</token>
+</word>
+<word id="9" pos="n">
+<token>漫画</token>
+</word>
+<word id="10" pos="w">
+<token>，</token>
+</word>
+<word id="11" pos="r">
+<token>他</token>
+</word>
+<word id="12" pos="d">
+<token>主要</token>
+</word>
+<word id="13" pos="v">
+<token>是</token>
+</word>
+<word id="14" pos="v">
+<token>模仿</token>
+</word>
+<word id="15" pos="m">
+<token>一个</token>
+</word>
+<word id="16" pos="v">
+<token>叫</token>
+</word>
+<word id="17" pos="w">
+<token>“</token>
+</word>
+<word id="18" pos="nr">
+<token>萨巴乔</token>
+</word>
+<word id="19" pos="w">
+<token>”</token>
+</word>
+<word id="20" pos="u">
+<token>的</token>
+</word>
+<word id="21" pos="n">
+<token>外国人</token>
+</word>
+<word id="22" pos="w">
+<token>，</token>
+</word>
+<word id="23" pos="p">
+<token>因为</token>
+</word>
+<word id="24" pos="r">
+<token>那时</token>
+</word>
+<word id="25" pos="ns">
+<token>上海</token>
+</word>
+<word id="26" pos="u">
+<token>的</token>
+</word>
+<word id="27" pos="nz">
+<token>英文</token>
+</word>
+<word id="28" pos="n">
+<token>报</token>
+</word>
+<word id="29" pos="w">
+<token>《</token>
+</word>
+<word id="30" pos="n">
+<token>字林西报</token>
+</word>
+<word id="31" pos="w">
+<token>》</token>
+</word>
+<word id="32" pos="d">
+<token>经常</token>
+</word>
+<word id="33" pos="v">
+<token>发表</token>
+</word>
+<word id="34" pos="nr">
+<token>萨氏</token>
+</word>
+<word id="35" pos="u">
+<token>的</token>
+</word>
+<word id="36" pos="n">
+<token>国际</token>
+</word>
+<word id="37" pos="n">
+<token>时事</token>
+</word>
+<word id="38" pos="n">
+<token>漫画</token>
+</word>
+<word id="39" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.12">
+<answer instance="叫.12" senseid=""/>
+<context>
+
+华君武到底是个有心人，很快就想到去拜访一位<head>叫</head>孔厥的鲁艺同学，那人有个小本儿，上面记的全是百姓语言，所以作品颇受群众欢迎。
+
+</context>
+<postagging>
+<word id="0" pos="nr">
+<token>华</token>
+</word>
+<word id="1" pos="nr">
+<token>君武</token>
+</word>
+<word id="2" pos="d">
+<token>到底</token>
+</word>
+<word id="3" pos="v">
+<token>是</token>
+</word>
+<word id="4" pos="q">
+<token>个</token>
+</word>
+<word id="5" pos="n">
+<token>有心人</token>
+</word>
+<word id="6" pos="w">
+<token>，</token>
+</word>
+<word id="7" pos="d">
+<token>很快</token>
+</word>
+<word id="8" pos="d">
+<token>就</token>
+</word>
+<word id="9" pos="v">
+<token>想到</token>
+</word>
+<word id="10" pos="v">
+<token>去</token>
+</word>
+<word id="11" pos="v">
+<token>拜访</token>
+</word>
+<word id="12" pos="m">
+<token>一</token>
+</word>
+<word id="13" pos="q">
+<token>位</token>
+</word>
+<word id="14" pos="v">
+<token>叫</token>
+</word>
+<word id="15" pos="nr">
+<token>孔</token>
+</word>
+<word id="16" pos="nr">
+<token>厥</token>
+</word>
+<word id="17" pos="u">
+<token>的</token>
+</word>
+<word id="18" pos="j">
+<token>鲁艺</token>
+</word>
+<word id="19" pos="n">
+<token>同学</token>
+</word>
+<word id="20" pos="w">
+<token>，</token>
+</word>
+<word id="21" pos="r">
+<token>那</token>
+</word>
+<word id="22" pos="n">
+<token>人</token>
+</word>
+<word id="23" pos="v">
+<token>有</token>
+</word>
+<word id="24" pos="q">
+<token>个</token>
+</word>
+<word id="25" pos="a">
+<token>小</token>
+</word>
+<word id="26" pos="n">
+<token>本儿</token>
+</word>
+<word id="27" pos="w">
+<token>，</token>
+</word>
+<word id="28" pos="f">
+<token>上面</token>
+</word>
+<word id="29" pos="v">
+<token>记</token>
+</word>
+<word id="30" pos="u">
+<token>的</token>
+</word>
+<word id="31" pos="d">
+<token>全</token>
+</word>
+<word id="32" pos="v">
+<token>是</token>
+</word>
+<word id="33" pos="n">
+<token>百姓</token>
+</word>
+<word id="34" pos="n">
+<token>语言</token>
+</word>
+<word id="35" pos="w">
+<token>，</token>
+</word>
+<word id="36" pos="c">
+<token>所以</token>
+</word>
+<word id="37" pos="n">
+<token>作品</token>
+</word>
+<word id="38" pos="d">
+<token>颇</token>
+</word>
+<word id="39" pos="v">
+<token>受</token>
+</word>
+<word id="40" pos="n">
+<token>群众</token>
+</word>
+<word id="41" pos="vn">
+<token>欢迎</token>
+</word>
+<word id="42" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.13">
+<answer instance="叫.13" senseid=""/>
+<context>
+
+这种明显的逻辑不通常识错误也<head>叫</head>什么“科学预测”！
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>这种</token>
+</word>
+<word id="1" pos="a">
+<token>明显</token>
+</word>
+<word id="2" pos="u">
+<token>的</token>
+</word>
+<word id="3" pos="n">
+<token>逻辑</token>
+</word>
+<word id="4" pos="d">
+<token>不</token>
+</word>
+<word id="5" pos="a">
+<token>通</token>
+</word>
+<word id="6" pos="n">
+<token>常识</token>
+</word>
+<word id="7" pos="n">
+<token>错误</token>
+</word>
+<word id="8" pos="d">
+<token>也</token>
+</word>
+<word id="9" pos="v">
+<token>叫</token>
+</word>
+<word id="10" pos="r">
+<token>什么</token>
+</word>
+<word id="11" pos="w">
+<token>“</token>
+</word>
+<word id="12" pos="n">
+<token>科学</token>
+</word>
+<word id="13" pos="vn">
+<token>预测</token>
+</word>
+<word id="14" pos="w">
+<token>”</token>
+</word>
+<word id="15" pos="w">
+<token>！</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.14">
+<answer instance="叫.14" senseid=""/>
+<context>
+
+与非配偶“谈情说爱”那<head>叫</head>“婚外恋”，古已有之，何必一定“上网”？
+
+</context>
+<postagging>
+<word id="0" pos="p">
+<token>与</token>
+</word>
+<word id="1" pos="h">
+<token>非</token>
+</word>
+<word id="2" pos="n">
+<token>配偶</token>
+</word>
+<word id="3" pos="w">
+<token>“</token>
+</word>
+<word id="4" pos="l">
+<token>谈情说爱</token>
+</word>
+<word id="5" pos="w">
+<token>”</token>
+</word>
+<word id="6" pos="r">
+<token>那</token>
+</word>
+<word id="7" pos="v">
+<token>叫</token>
+</word>
+<word id="8" pos="w">
+<token>“</token>
+</word>
+<word id="9" pos="n">
+<token>婚外恋</token>
+</word>
+<word id="10" pos="w">
+<token>”</token>
+</word>
+<word id="11" pos="w">
+<token>，</token>
+</word>
+<word id="12" pos="l">
+<token>古已有之</token>
+</word>
+<word id="13" pos="w">
+<token>，</token>
+</word>
+<word id="14" pos="d">
+<token>何必</token>
+</word>
+<word id="15" pos="d">
+<token>一定</token>
+</word>
+<word id="16" pos="w">
+<token>“</token>
+</word>
+<word id="17" pos="v">
+<token>上网</token>
+</word>
+<word id="18" pos="w">
+<token>”</token>
+</word>
+<word id="19" pos="w">
+<token>？</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.15">
+<answer instance="叫.15" senseid=""/>
+<context>
+
+一位<head>叫</head>方家耀的温州老板说，以前总觉得家乡最稳妥，在外面挣了钱就回家建房子，盖了六层楼，常年只住麻雀不住人。
+
+</context>
+<postagging>
+<word id="0" pos="m">
+<token>一</token>
+</word>
+<word id="1" pos="q">
+<token>位</token>
+</word>
+<word id="2" pos="v">
+<token>叫</token>
+</word>
+<word id="3" pos="nr">
+<token>方</token>
+</word>
+<word id="4" pos="nr">
+<token>家耀</token>
+</word>
+<word id="5" pos="u">
+<token>的</token>
+</word>
+<word id="6" pos="ns">
+<token>温州</token>
+</word>
+<word id="7" pos="n">
+<token>老板</token>
+</word>
+<word id="8" pos="v">
+<token>说</token>
+</word>
+<word id="9" pos="w">
+<token>，</token>
+</word>
+<word id="10" pos="f">
+<token>以前</token>
+</word>
+<word id="11" pos="d">
+<token>总</token>
+</word>
+<word id="12" pos="v">
+<token>觉得</token>
+</word>
+<word id="13" pos="n">
+<token>家乡</token>
+</word>
+<word id="14" pos="d">
+<token>最</token>
+</word>
+<word id="15" pos="a">
+<token>稳妥</token>
+</word>
+<word id="16" pos="w">
+<token>，</token>
+</word>
+<word id="17" pos="p">
+<token>在</token>
+</word>
+<word id="18" pos="f">
+<token>外面</token>
+</word>
+<word id="19" pos="v">
+<token>挣</token>
+</word>
+<word id="20" pos="u">
+<token>了</token>
+</word>
+<word id="21" pos="n">
+<token>钱</token>
+</word>
+<word id="22" pos="d">
+<token>就</token>
+</word>
+<word id="23" pos="v">
+<token>回家</token>
+</word>
+<word id="24" pos="v">
+<token>建</token>
+</word>
+<word id="25" pos="n">
+<token>房子</token>
+</word>
+<word id="26" pos="w">
+<token>，</token>
+</word>
+<word id="27" pos="v">
+<token>盖</token>
+</word>
+<word id="28" pos="u">
+<token>了</token>
+</word>
+<word id="29" pos="m">
+<token>六</token>
+</word>
+<word id="30" pos="q">
+<token>层</token>
+</word>
+<word id="31" pos="n">
+<token>楼</token>
+</word>
+<word id="32" pos="w">
+<token>，</token>
+</word>
+<word id="33" pos="d">
+<token>常年</token>
+</word>
+<word id="34" pos="d">
+<token>只</token>
+</word>
+<word id="35" pos="v">
+<token>住</token>
+</word>
+<word id="36" pos="n">
+<token>麻雀</token>
+</word>
+<word id="37" pos="d">
+<token>不</token>
+</word>
+<word id="38" pos="v">
+<token>住</token>
+</word>
+<word id="39" pos="n">
+<token>人</token>
+</word>
+<word id="40" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.16">
+<answer instance="叫.16" senseid=""/>
+<context>
+
+这个问题，使我联想到爱因斯坦临终前写的一份遗书，题目<head>叫</head>《致五千年后人类的信》。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>这个</token>
+</word>
+<word id="1" pos="n">
+<token>问题</token>
+</word>
+<word id="2" pos="w">
+<token>，</token>
+</word>
+<word id="3" pos="v">
+<token>使</token>
+</word>
+<word id="4" pos="r">
+<token>我</token>
+</word>
+<word id="5" pos="v">
+<token>联想</token>
+</word>
+<word id="6" pos="v">
+<token>到</token>
+</word>
+<word id="7" pos="nr">
+<token>爱因斯坦</token>
+</word>
+<word id="8" pos="v">
+<token>临终</token>
+</word>
+<word id="9" pos="f">
+<token>前</token>
+</word>
+<word id="10" pos="v">
+<token>写</token>
+</word>
+<word id="11" pos="u">
+<token>的</token>
+</word>
+<word id="12" pos="m">
+<token>一</token>
+</word>
+<word id="13" pos="q">
+<token>份</token>
+</word>
+<word id="14" pos="n">
+<token>遗书</token>
+</word>
+<word id="15" pos="w">
+<token>，</token>
+</word>
+<word id="16" pos="n">
+<token>题目</token>
+</word>
+<word id="17" pos="v">
+<token>叫</token>
+</word>
+<word id="18" pos="w">
+<token>《</token>
+</word>
+<word id="19" pos="v">
+<token>致</token>
+</word>
+<word id="20" pos="m">
+<token>五千</token>
+</word>
+<word id="21" pos="q">
+<token>年</token>
+</word>
+<word id="22" pos="f">
+<token>后</token>
+</word>
+<word id="23" pos="n">
+<token>人类</token>
+</word>
+<word id="24" pos="u">
+<token>的</token>
+</word>
+<word id="25" pos="n">
+<token>信</token>
+</word>
+<word id="26" pos="w">
+<token>》</token>
+</word>
+<word id="27" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.17">
+<answer instance="叫.17" senseid=""/>
+<context>
+
+来自波士顿大学的约瑟夫·费尔史密斯有个中文名字<head>叫</head>傅士卓，他也是哈佛大学费正清研究所中国研究方面的副研究员。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>来自</token>
+</word>
+<word id="1" pos="nt">
+<token>
+波士顿大学
+</token>
+<subword id="0" pos="ns">
+<token>波士顿</token>
+</subword>
+<subword id="1" pos="na">
+<token>大学</token>
+</subword>
+</word>
+<word id="2" pos="u">
+<token>的</token>
+</word>
+<word id="3" pos="nr">
+<token>约瑟夫·费尔史密斯</token>
+</word>
+<word id="4" pos="v">
+<token>有</token>
+</word>
+<word id="5" pos="q">
+<token>个</token>
+</word>
+<word id="6" pos="nz">
+<token>中文</token>
+</word>
+<word id="7" pos="n">
+<token>名字</token>
+</word>
+<word id="8" pos="v">
+<token>叫</token>
+</word>
+<word id="9" pos="nr">
+<token>傅</token>
+</word>
+<word id="10" pos="nr">
+<token>士卓</token>
+</word>
+<word id="11" pos="w">
+<token>，</token>
+</word>
+<word id="12" pos="r">
+<token>他</token>
+</word>
+<word id="13" pos="d">
+<token>也</token>
+</word>
+<word id="14" pos="v">
+<token>是</token>
+</word>
+<word id="15" pos="nt">
+<token>
+哈佛大学费正清研究所
+</token>
+<subword id="0" pos="ns">
+<token>哈佛</token>
+</subword>
+<subword id="1" pos="n">
+<token>大学</token>
+</subword>
+<subword id="2" pos="nr">
+<token>费</token>
+</subword>
+<subword id="3" pos="nr">
+<token>正清</token>
+</subword>
+<subword id="4" pos="n">
+<token>研究所</token>
+</subword>
+</word>
+<word id="16" pos="ns">
+<token>中国</token>
+</word>
+<word id="17" pos="vn">
+<token>研究</token>
+</word>
+<word id="18" pos="n">
+<token>方面</token>
+</word>
+<word id="19" pos="u">
+<token>的</token>
+</word>
+<word id="20" pos="b">
+<token>副</token>
+</word>
+<word id="21" pos="n">
+<token>研究员</token>
+</word>
+<word id="22" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.18">
+<answer instance="叫.18" senseid=""/>
+<context>
+
+据船长初步交待，这是艘船号<head>叫</head>“惠外运228号”的货船，他们这次从香港往内地走私进口光盘，一共2500箱，每箱1000张，总共250万张。
+
+</context>
+<postagging>
+<word id="0" pos="p">
+<token>据</token>
+</word>
+<word id="1" pos="n">
+<token>船长</token>
+</word>
+<word id="2" pos="d">
+<token>初步</token>
+</word>
+<word id="3" pos="v">
+<token>交待</token>
+</word>
+<word id="4" pos="w">
+<token>，</token>
+</word>
+<word id="5" pos="r">
+<token>这</token>
+</word>
+<word id="6" pos="v">
+<token>是</token>
+</word>
+<word id="7" pos="q">
+<token>艘</token>
+</word>
+<word id="8" pos="n">
+<token>船号</token>
+</word>
+<word id="9" pos="v">
+<token>叫</token>
+</word>
+<word id="10" pos="w">
+<token>“</token>
+</word>
+<word id="11" pos="j">
+<token>惠</token>
+</word>
+<word id="12" pos="v">
+<token>外运</token>
+</word>
+<word id="13" pos="m">
+<token>228</token>
+</word>
+<word id="14" pos="q">
+<token>号</token>
+</word>
+<word id="15" pos="w">
+<token>”</token>
+</word>
+<word id="16" pos="u">
+<token>的</token>
+</word>
+<word id="17" pos="n">
+<token>货船</token>
+</word>
+<word id="18" pos="w">
+<token>，</token>
+</word>
+<word id="19" pos="r">
+<token>他们</token>
+</word>
+<word id="20" pos="r">
+<token>这次</token>
+</word>
+<word id="21" pos="p">
+<token>从</token>
+</word>
+<word id="22" pos="ns">
+<token>香港</token>
+</word>
+<word id="23" pos="p">
+<token>往</token>
+</word>
+<word id="24" pos="s">
+<token>内地</token>
+</word>
+<word id="25" pos="v">
+<token>走私</token>
+</word>
+<word id="26" pos="vn">
+<token>进口</token>
+</word>
+<word id="27" pos="n">
+<token>光盘</token>
+</word>
+<word id="28" pos="w">
+<token>，</token>
+</word>
+<word id="29" pos="d">
+<token>一共</token>
+</word>
+<word id="30" pos="m">
+<token>2500</token>
+</word>
+<word id="31" pos="q">
+<token>箱</token>
+</word>
+<word id="32" pos="w">
+<token>，</token>
+</word>
+<word id="33" pos="r">
+<token>每</token>
+</word>
+<word id="34" pos="q">
+<token>箱</token>
+</word>
+<word id="35" pos="m">
+<token>1000</token>
+</word>
+<word id="36" pos="q">
+<token>张</token>
+</word>
+<word id="37" pos="w">
+<token>，</token>
+</word>
+<word id="38" pos="d">
+<token>总共</token>
+</word>
+<word id="39" pos="m">
+<token>250万</token>
+</word>
+<word id="40" pos="q">
+<token>张</token>
+</word>
+<word id="41" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.19">
+<answer instance="叫.19" senseid=""/>
+<context>
+
+1995年4月的一天，范永光在一家夜总会娱乐，发现他的一个姘妇与一个<head>叫</head>齐涛的人在一起吃饭。
+
+</context>
+<postagging>
+<word id="0" pos="t">
+<token>1995年</token>
+</word>
+<word id="1" pos="t">
+<token>4月</token>
+</word>
+<word id="2" pos="u">
+<token>的</token>
+</word>
+<word id="3" pos="m">
+<token>一</token>
+</word>
+<word id="4" pos="q">
+<token>天</token>
+</word>
+<word id="5" pos="w">
+<token>，</token>
+</word>
+<word id="6" pos="nr">
+<token>范</token>
+</word>
+<word id="7" pos="nr">
+<token>永光</token>
+</word>
+<word id="8" pos="p">
+<token>在</token>
+</word>
+<word id="9" pos="m">
+<token>一</token>
+</word>
+<word id="10" pos="q">
+<token>家</token>
+</word>
+<word id="11" pos="n">
+<token>夜总会</token>
+</word>
+<word id="12" pos="v">
+<token>娱乐</token>
+</word>
+<word id="13" pos="w">
+<token>，</token>
+</word>
+<word id="14" pos="v">
+<token>发现</token>
+</word>
+<word id="15" pos="r">
+<token>他</token>
+</word>
+<word id="16" pos="u">
+<token>的</token>
+</word>
+<word id="17" pos="m">
+<token>一个</token>
+</word>
+<word id="18" pos="n">
+<token>姘妇</token>
+</word>
+<word id="19" pos="p">
+<token>与</token>
+</word>
+<word id="20" pos="m">
+<token>一个</token>
+</word>
+<word id="21" pos="v">
+<token>叫</token>
+</word>
+<word id="22" pos="nr">
+<token>齐</token>
+</word>
+<word id="23" pos="nr">
+<token>涛</token>
+</word>
+<word id="24" pos="u">
+<token>的</token>
+</word>
+<word id="25" pos="n">
+<token>人</token>
+</word>
+<word id="26" pos="d">
+<token>在</token>
+</word>
+<word id="27" pos="d">
+<token>一起</token>
+</word>
+<word id="28" pos="v">
+<token>吃饭</token>
+</word>
+<word id="29" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.20">
+<answer instance="叫.20" senseid=""/>
+<context>
+
+作为宫廷龙，从秦汉以后，龙已定型成帝王的化身，皇帝离开娘胎曰“龙诞”，呜呼哀哉<head>叫</head>“龙驭宾天”，至于龙椅、龙袍、龙旗等等更是不一而足。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>作为</token>
+</word>
+<word id="1" pos="n">
+<token>宫廷</token>
+</word>
+<word id="2" pos="n">
+<token>龙</token>
+</word>
+<word id="3" pos="w">
+<token>，</token>
+</word>
+<word id="4" pos="p">
+<token>从</token>
+</word>
+<word id="5" pos="Tg">
+<token>秦</token>
+</word>
+<word id="6" pos="Tg">
+<token>汉</token>
+</word>
+<word id="7" pos="f">
+<token>以后</token>
+</word>
+<word id="8" pos="w">
+<token>，</token>
+</word>
+<word id="9" pos="n">
+<token>龙</token>
+</word>
+<word id="10" pos="d">
+<token>已</token>
+</word>
+<word id="11" pos="v">
+<token>定型</token>
+</word>
+<word id="12" pos="v">
+<token>成</token>
+</word>
+<word id="13" pos="n">
+<token>帝王</token>
+</word>
+<word id="14" pos="u">
+<token>的</token>
+</word>
+<word id="15" pos="n">
+<token>化身</token>
+</word>
+<word id="16" pos="w">
+<token>，</token>
+</word>
+<word id="17" pos="n">
+<token>皇帝</token>
+</word>
+<word id="18" pos="v">
+<token>离开</token>
+</word>
+<word id="19" pos="n">
+<token>娘胎</token>
+</word>
+<word id="20" pos="Vg">
+<token>曰</token>
+</word>
+<word id="21" pos="w">
+<token>“</token>
+</word>
+<word id="22" pos="n">
+<token>龙诞</token>
+</word>
+<word id="23" pos="w">
+<token>”</token>
+</word>
+<word id="24" pos="w">
+<token>，</token>
+</word>
+<word id="25" pos="l">
+<token>呜呼哀哉</token>
+</word>
+<word id="26" pos="v">
+<token>叫</token>
+</word>
+<word id="27" pos="w">
+<token>“</token>
+</word>
+<word id="28" pos="i">
+<token>龙驭宾天</token>
+</word>
+<word id="29" pos="w">
+<token>”</token>
+</word>
+<word id="30" pos="w">
+<token>，</token>
+</word>
+<word id="31" pos="v">
+<token>至于</token>
+</word>
+<word id="32" pos="n">
+<token>龙椅</token>
+</word>
+<word id="33" pos="w">
+<token>、</token>
+</word>
+<word id="34" pos="n">
+<token>龙袍</token>
+</word>
+<word id="35" pos="w">
+<token>、</token>
+</word>
+<word id="36" pos="n">
+<token>龙旗</token>
+</word>
+<word id="37" pos="u">
+<token>等等</token>
+</word>
+<word id="38" pos="d">
+<token>更</token>
+</word>
+<word id="39" pos="v">
+<token>是</token>
+</word>
+<word id="40" pos="i">
+<token>不一而足</token>
+</word>
+<word id="41" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.21">
+<answer instance="叫.21" senseid=""/>
+<context>
+
+临下班时，厂长<head>叫</head>住嵇蓉珍，心情深重地对她说：
+
+</context>
+<postagging>
+<word id="0" pos="p">
+<token>临</token>
+</word>
+<word id="1" pos="v">
+<token>下班</token>
+</word>
+<word id="2" pos="Ng">
+<token>时</token>
+</word>
+<word id="3" pos="w">
+<token>，</token>
+</word>
+<word id="4" pos="n">
+<token>厂长</token>
+</word>
+<word id="5" pos="v">
+<token>叫</token>
+</word>
+<word id="6" pos="v">
+<token>住</token>
+</word>
+<word id="7" pos="nr">
+<token>嵇</token>
+</word>
+<word id="8" pos="nr">
+<token>蓉珍</token>
+</word>
+<word id="9" pos="w">
+<token>，</token>
+</word>
+<word id="10" pos="n">
+<token>心情</token>
+</word>
+<word id="11" pos="a">
+<token>深重</token>
+</word>
+<word id="12" pos="u">
+<token>地</token>
+</word>
+<word id="13" pos="p">
+<token>对</token>
+</word>
+<word id="14" pos="r">
+<token>她</token>
+</word>
+<word id="15" pos="v">
+<token>说</token>
+</word>
+<word id="16" pos="w">
+<token>：</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.22">
+<answer instance="叫.22" senseid=""/>
+<context>
+
+就在内蒙古扎赉特旗好力保乡农民沈利第一次听到聋儿子沈洪福<head>叫</head>“爸爸”的时候，这条汉子禁不住眼睛湿润了，一把搂住儿子，成串的泪珠夺眶而出。
+
+</context>
+<postagging>
+<word id="0" pos="d">
+<token>就</token>
+</word>
+<word id="1" pos="p">
+<token>在</token>
+</word>
+<word id="2" pos="ns">
+<token>内蒙古</token>
+</word>
+<word id="3" pos="ns">
+<token>扎赉特旗</token>
+</word>
+<word id="4" pos="ns">
+<token>好力保乡</token>
+</word>
+<word id="5" pos="n">
+<token>农民</token>
+</word>
+<word id="6" pos="nr">
+<token>沈</token>
+</word>
+<word id="7" pos="nr">
+<token>利</token>
+</word>
+<word id="8" pos="m">
+<token>第一</token>
+</word>
+<word id="9" pos="q">
+<token>次</token>
+</word>
+<word id="10" pos="v">
+<token>听到</token>
+</word>
+<word id="11" pos="v">
+<token>聋</token>
+</word>
+<word id="12" pos="n">
+<token>儿子</token>
+</word>
+<word id="13" pos="nr">
+<token>沈</token>
+</word>
+<word id="14" pos="nr">
+<token>洪福</token>
+</word>
+<word id="15" pos="v">
+<token>叫</token>
+</word>
+<word id="16" pos="w">
+<token>“</token>
+</word>
+<word id="17" pos="n">
+<token>爸爸</token>
+</word>
+<word id="18" pos="w">
+<token>”</token>
+</word>
+<word id="19" pos="u">
+<token>的</token>
+</word>
+<word id="20" pos="n">
+<token>时候</token>
+</word>
+<word id="21" pos="w">
+<token>，</token>
+</word>
+<word id="22" pos="r">
+<token>这</token>
+</word>
+<word id="23" pos="q">
+<token>条</token>
+</word>
+<word id="24" pos="n">
+<token>汉子</token>
+</word>
+<word id="25" pos="v">
+<token>禁不住</token>
+</word>
+<word id="26" pos="n">
+<token>眼睛</token>
+</word>
+<word id="27" pos="v">
+<token>湿润</token>
+</word>
+<word id="28" pos="y">
+<token>了</token>
+</word>
+<word id="29" pos="w">
+<token>，</token>
+</word>
+<word id="30" pos="d">
+<token>一把</token>
+</word>
+<word id="31" pos="v">
+<token>搂</token>
+</word>
+<word id="32" pos="v">
+<token>住</token>
+</word>
+<word id="33" pos="n">
+<token>儿子</token>
+</word>
+<word id="34" pos="w">
+<token>，</token>
+</word>
+<word id="35" pos="v">
+<token>成</token>
+</word>
+<word id="36" pos="q">
+<token>串</token>
+</word>
+<word id="37" pos="u">
+<token>的</token>
+</word>
+<word id="38" pos="n">
+<token>泪珠</token>
+</word>
+<word id="39" pos="i">
+<token>夺眶而出</token>
+</word>
+<word id="40" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.23">
+<answer instance="叫.23" senseid=""/>
+<context>
+
+“不<head>叫</head>不到，不给不要，不嚷不闹”，这种状态说到底就是保守，保守曾使石家庄失掉了许多发展的机会。
+
+</context>
+<postagging>
+<word id="0" pos="w">
+<token>“</token>
+</word>
+<word id="1" pos="d">
+<token>不</token>
+</word>
+<word id="2" pos="v">
+<token>叫</token>
+</word>
+<word id="3" pos="d">
+<token>不</token>
+</word>
+<word id="4" pos="v">
+<token>到</token>
+</word>
+<word id="5" pos="w">
+<token>，</token>
+</word>
+<word id="6" pos="d">
+<token>不</token>
+</word>
+<word id="7" pos="v">
+<token>给</token>
+</word>
+<word id="8" pos="d">
+<token>不</token>
+</word>
+<word id="9" pos="v">
+<token>要</token>
+</word>
+<word id="10" pos="w">
+<token>，</token>
+</word>
+<word id="11" pos="d">
+<token>不</token>
+</word>
+<word id="12" pos="v">
+<token>嚷</token>
+</word>
+<word id="13" pos="d">
+<token>不</token>
+</word>
+<word id="14" pos="a">
+<token>闹</token>
+</word>
+<word id="15" pos="w">
+<token>”</token>
+</word>
+<word id="16" pos="w">
+<token>，</token>
+</word>
+<word id="17" pos="r">
+<token>这种</token>
+</word>
+<word id="18" pos="n">
+<token>状态</token>
+</word>
+<word id="19" pos="l">
+<token>说到底</token>
+</word>
+<word id="20" pos="d">
+<token>就</token>
+</word>
+<word id="21" pos="v">
+<token>是</token>
+</word>
+<word id="22" pos="a">
+<token>保守</token>
+</word>
+<word id="23" pos="w">
+<token>，</token>
+</word>
+<word id="24" pos="a">
+<token>保守</token>
+</word>
+<word id="25" pos="d">
+<token>曾</token>
+</word>
+<word id="26" pos="v">
+<token>使</token>
+</word>
+<word id="27" pos="ns">
+<token>石家庄</token>
+</word>
+<word id="28" pos="v">
+<token>失掉</token>
+</word>
+<word id="29" pos="u">
+<token>了</token>
+</word>
+<word id="30" pos="m">
+<token>许多</token>
+</word>
+<word id="31" pos="v">
+<token>发展</token>
+</word>
+<word id="32" pos="u">
+<token>的</token>
+</word>
+<word id="33" pos="n">
+<token>机会</token>
+</word>
+<word id="34" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.24">
+<answer instance="叫.24" senseid=""/>
+<context>
+
+我<head>叫</head>几个兵给你拉过来就是了。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>我</token>
+</word>
+<word id="1" pos="v">
+<token>叫</token>
+</word>
+<word id="2" pos="m">
+<token>几</token>
+</word>
+<word id="3" pos="q">
+<token>个</token>
+</word>
+<word id="4" pos="n">
+<token>兵</token>
+</word>
+<word id="5" pos="p">
+<token>给</token>
+</word>
+<word id="6" pos="r">
+<token>你</token>
+</word>
+<word id="7" pos="v">
+<token>拉</token>
+</word>
+<word id="8" pos="v">
+<token>过来</token>
+</word>
+<word id="9" pos="d">
+<token>就</token>
+</word>
+<word id="10" pos="v">
+<token>是</token>
+</word>
+<word id="11" pos="y">
+<token>了</token>
+</word>
+<word id="12" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.25">
+<answer instance="叫.25" senseid=""/>
+<context>
+
+22日，车行至打洛边贸商场，景洪兴州旅行社的导游谢芳和司机周应军将我们领到一家商店门口停下，他们说要拿着我们的身份证去办出境证，<head>叫</head>我们进商店接受出境培训。
+
+</context>
+<postagging>
+<word id="0" pos="t">
+<token>22日</token>
+</word>
+<word id="1" pos="w">
+<token>，</token>
+</word>
+<word id="2" pos="n">
+<token>车</token>
+</word>
+<word id="3" pos="v">
+<token>行</token>
+</word>
+<word id="4" pos="v">
+<token>至</token>
+</word>
+<word id="5" pos="ns">
+<token>打洛</token>
+</word>
+<word id="6" pos="n">
+<token>边贸</token>
+</word>
+<word id="7" pos="n">
+<token>商场</token>
+</word>
+<word id="8" pos="w">
+<token>，</token>
+</word>
+<word id="9" pos="nt">
+<token>
+景洪兴州旅行社
+</token>
+<subword id="0" pos="ns">
+<token>景洪兴州</token>
+</subword>
+<subword id="1" pos="n">
+<token>旅行社</token>
+</subword>
+</word>
+<word id="10" pos="u">
+<token>的</token>
+</word>
+<word id="11" pos="n">
+<token>导游</token>
+</word>
+<word id="12" pos="nr">
+<token>谢</token>
+</word>
+<word id="13" pos="nr">
+<token>芳</token>
+</word>
+<word id="14" pos="c">
+<token>和</token>
+</word>
+<word id="15" pos="n">
+<token>司机</token>
+</word>
+<word id="16" pos="nr">
+<token>周</token>
+</word>
+<word id="17" pos="nr">
+<token>应军</token>
+</word>
+<word id="18" pos="p">
+<token>将</token>
+</word>
+<word id="19" pos="r">
+<token>我们</token>
+</word>
+<word id="20" pos="v">
+<token>领到</token>
+</word>
+<word id="21" pos="m">
+<token>一</token>
+</word>
+<word id="22" pos="q">
+<token>家</token>
+</word>
+<word id="23" pos="n">
+<token>商店</token>
+</word>
+<word id="24" pos="s">
+<token>门口</token>
+</word>
+<word id="25" pos="v">
+<token>停下</token>
+</word>
+<word id="26" pos="w">
+<token>，</token>
+</word>
+<word id="27" pos="r">
+<token>他们</token>
+</word>
+<word id="28" pos="v">
+<token>说</token>
+</word>
+<word id="29" pos="v">
+<token>要</token>
+</word>
+<word id="30" pos="v">
+<token>拿</token>
+</word>
+<word id="31" pos="u">
+<token>着</token>
+</word>
+<word id="32" pos="r">
+<token>我们</token>
+</word>
+<word id="33" pos="u">
+<token>的</token>
+</word>
+<word id="34" pos="n">
+<token>身份证</token>
+</word>
+<word id="35" pos="v">
+<token>去</token>
+</word>
+<word id="36" pos="v">
+<token>办</token>
+</word>
+<word id="37" pos="n">
+<token>出境证</token>
+</word>
+<word id="38" pos="w">
+<token>，</token>
+</word>
+<word id="39" pos="v">
+<token>叫</token>
+</word>
+<word id="40" pos="r">
+<token>我们</token>
+</word>
+<word id="41" pos="v">
+<token>进</token>
+</word>
+<word id="42" pos="n">
+<token>商店</token>
+</word>
+<word id="43" pos="v">
+<token>接受</token>
+</word>
+<word id="44" pos="vn">
+<token>出境</token>
+</word>
+<word id="45" pos="vn">
+<token>培训</token>
+</word>
+<word id="46" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.26">
+<answer instance="叫.26" senseid=""/>
+<context>
+
+他拿来玉镯撺掇我们购买，又<head>叫</head>来老板砍价。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>他</token>
+</word>
+<word id="1" pos="v">
+<token>拿</token>
+</word>
+<word id="2" pos="v">
+<token>来</token>
+</word>
+<word id="3" pos="n">
+<token>玉镯</token>
+</word>
+<word id="4" pos="v">
+<token>撺掇</token>
+</word>
+<word id="5" pos="r">
+<token>我们</token>
+</word>
+<word id="6" pos="v">
+<token>购买</token>
+</word>
+<word id="7" pos="w">
+<token>，</token>
+</word>
+<word id="8" pos="d">
+<token>又</token>
+</word>
+<word id="9" pos="v">
+<token>叫</token>
+</word>
+<word id="10" pos="v">
+<token>来</token>
+</word>
+<word id="11" pos="n">
+<token>老板</token>
+</word>
+<word id="12" pos="v">
+<token>砍</token>
+</word>
+<word id="13" pos="n">
+<token>价</token>
+</word>
+<word id="14" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.27">
+<answer instance="叫.27" senseid=""/>
+<context>
+
+孙涛副院长每做一个手术，都要把三营医院的外科医生<head>叫</head>到手术台前，边做边讲，使这些年轻医生既增长了知识、开阔了视野，又丰富了临床经验，深受三营医院全体医护人员的好评。
+
+</context>
+<postagging>
+<word id="0" pos="nr">
+<token>孙</token>
+</word>
+<word id="1" pos="nr">
+<token>涛</token>
+</word>
+<word id="2" pos="b">
+<token>副</token>
+</word>
+<word id="3" pos="n">
+<token>院长</token>
+</word>
+<word id="4" pos="r">
+<token>每</token>
+</word>
+<word id="5" pos="v">
+<token>做</token>
+</word>
+<word id="6" pos="m">
+<token>一个</token>
+</word>
+<word id="7" pos="vn">
+<token>手术</token>
+</word>
+<word id="8" pos="w">
+<token>，</token>
+</word>
+<word id="9" pos="d">
+<token>都</token>
+</word>
+<word id="10" pos="v">
+<token>要</token>
+</word>
+<word id="11" pos="p">
+<token>把</token>
+</word>
+<word id="12" pos="nt">
+<token>
+三营医院
+</token>
+<subword id="0" pos="ns">
+<token>三营</token>
+</subword>
+<subword id="1" pos="n">
+<token>医院</token>
+</subword>
+</word>
+<word id="13" pos="u">
+<token>的</token>
+</word>
+<word id="14" pos="n">
+<token>外科</token>
+</word>
+<word id="15" pos="n">
+<token>医生</token>
+</word>
+<word id="16" pos="v">
+<token>叫</token>
+</word>
+<word id="17" pos="v">
+<token>到</token>
+</word>
+<word id="18" pos="n">
+<token>手术台</token>
+</word>
+<word id="19" pos="f">
+<token>前</token>
+</word>
+<word id="20" pos="w">
+<token>，</token>
+</word>
+<word id="21" pos="d">
+<token>边</token>
+</word>
+<word id="22" pos="v">
+<token>做</token>
+</word>
+<word id="23" pos="d">
+<token>边</token>
+</word>
+<word id="24" pos="v">
+<token>讲</token>
+</word>
+<word id="25" pos="w">
+<token>，</token>
+</word>
+<word id="26" pos="v">
+<token>使</token>
+</word>
+<word id="27" pos="r">
+<token>这些</token>
+</word>
+<word id="28" pos="a">
+<token>年轻</token>
+</word>
+<word id="29" pos="n">
+<token>医生</token>
+</word>
+<word id="30" pos="c">
+<token>既</token>
+</word>
+<word id="31" pos="v">
+<token>增长</token>
+</word>
+<word id="32" pos="u">
+<token>了</token>
+</word>
+<word id="33" pos="n">
+<token>知识</token>
+</word>
+<word id="34" pos="w">
+<token>、</token>
+</word>
+<word id="35" pos="v">
+<token>开阔</token>
+</word>
+<word id="36" pos="u">
+<token>了</token>
+</word>
+<word id="37" pos="n">
+<token>视野</token>
+</word>
+<word id="38" pos="w">
+<token>，</token>
+</word>
+<word id="39" pos="c">
+<token>又</token>
+</word>
+<word id="40" pos="v">
+<token>丰富</token>
+</word>
+<word id="41" pos="u">
+<token>了</token>
+</word>
+<word id="42" pos="vn">
+<token>临床</token>
+</word>
+<word id="43" pos="n">
+<token>经验</token>
+</word>
+<word id="44" pos="w">
+<token>，</token>
+</word>
+<word id="45" pos="v">
+<token>深受</token>
+</word>
+<word id="46" pos="nt">
+<token>
+三营医院
+</token>
+<subword id="0" pos="ns">
+<token>三营</token>
+</subword>
+<subword id="1" pos="n">
+<token>医院</token>
+</subword>
+</word>
+<word id="47" pos="n">
+<token>全体</token>
+</word>
+<word id="48" pos="j">
+<token>医护</token>
+</word>
+<word id="49" pos="n">
+<token>人员</token>
+</word>
+<word id="50" pos="u">
+<token>的</token>
+</word>
+<word id="51" pos="n">
+<token>好评</token>
+</word>
+<word id="52" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.28">
+<answer instance="叫.28" senseid=""/>
+<context>
+
+过了几天，马永顺把春生<head>叫</head>到跟前，对他说：
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>过</token>
+</word>
+<word id="1" pos="u">
+<token>了</token>
+</word>
+<word id="2" pos="m">
+<token>几</token>
+</word>
+<word id="3" pos="q">
+<token>天</token>
+</word>
+<word id="4" pos="w">
+<token>，</token>
+</word>
+<word id="5" pos="nr">
+<token>马</token>
+</word>
+<word id="6" pos="nr">
+<token>永顺</token>
+</word>
+<word id="7" pos="p">
+<token>把</token>
+</word>
+<word id="8" pos="nr">
+<token>春生</token>
+</word>
+<word id="9" pos="v">
+<token>叫</token>
+</word>
+<word id="10" pos="v">
+<token>到</token>
+</word>
+<word id="11" pos="f">
+<token>跟前</token>
+</word>
+<word id="12" pos="w">
+<token>，</token>
+</word>
+<word id="13" pos="p">
+<token>对</token>
+</word>
+<word id="14" pos="r">
+<token>他</token>
+</word>
+<word id="15" pos="v">
+<token>说</token>
+</word>
+<word id="16" pos="w">
+<token>：</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.29">
+<answer instance="叫.29" senseid=""/>
+<context>
+
+“叔叔，我们在你家屋后听到鬼<head>叫</head>了。
+
+</context>
+<postagging>
+<word id="0" pos="w">
+<token>“</token>
+</word>
+<word id="1" pos="n">
+<token>叔叔</token>
+</word>
+<word id="2" pos="w">
+<token>，</token>
+</word>
+<word id="3" pos="r">
+<token>我们</token>
+</word>
+<word id="4" pos="p">
+<token>在</token>
+</word>
+<word id="5" pos="r">
+<token>你家</token>
+</word>
+<word id="6" pos="s">
+<token>屋后</token>
+</word>
+<word id="7" pos="v">
+<token>听到</token>
+</word>
+<word id="8" pos="n">
+<token>鬼</token>
+</word>
+<word id="9" pos="v">
+<token>叫</token>
+</word>
+<word id="10" pos="y">
+<token>了</token>
+</word>
+<word id="11" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.30">
+<answer instance="叫.30" senseid=""/>
+<context>
+
+今天一大早，清脆的叩门声<head>叫</head>开了武汉市武昌区居民方俊明家的门，三角路中学“吴天祥小组”的8位高三学生一脸灿烂站在门前：
+
+</context>
+<postagging>
+<word id="0" pos="t">
+<token>今天</token>
+</word>
+<word id="1" pos="t">
+<token>一大早</token>
+</word>
+<word id="2" pos="w">
+<token>，</token>
+</word>
+<word id="3" pos="a">
+<token>清脆</token>
+</word>
+<word id="4" pos="u">
+<token>的</token>
+</word>
+<word id="5" pos="n">
+<token>叩门声</token>
+</word>
+<word id="6" pos="v">
+<token>叫</token>
+</word>
+<word id="7" pos="v">
+<token>开</token>
+</word>
+<word id="8" pos="u">
+<token>了</token>
+</word>
+<word id="9" pos="ns">
+<token>武汉市</token>
+</word>
+<word id="10" pos="ns">
+<token>武昌区</token>
+</word>
+<word id="11" pos="n">
+<token>居民</token>
+</word>
+<word id="12" pos="nr">
+<token>方</token>
+</word>
+<word id="13" pos="nr">
+<token>俊明</token>
+</word>
+<word id="14" pos="n">
+<token>家</token>
+</word>
+<word id="15" pos="u">
+<token>的</token>
+</word>
+<word id="16" pos="n">
+<token>门</token>
+</word>
+<word id="17" pos="w">
+<token>，</token>
+</word>
+<word id="18" pos="nt">
+<token>
+三角路中学
+</token>
+<subword id="0" pos="ns">
+<token>三角路</token>
+</subword>
+<subword id="1" pos="n">
+<token>中学</token>
+</subword>
+</word>
+<word id="19" pos="w">
+<token>“</token>
+</word>
+<word id="20" pos="nr">
+<token>吴</token>
+</word>
+<word id="21" pos="nr">
+<token>天祥</token>
+</word>
+<word id="22" pos="n">
+<token>小组</token>
+</word>
+<word id="23" pos="w">
+<token>”</token>
+</word>
+<word id="24" pos="u">
+<token>的</token>
+</word>
+<word id="25" pos="m">
+<token>8</token>
+</word>
+<word id="26" pos="q">
+<token>位</token>
+</word>
+<word id="27" pos="j">
+<token>高三</token>
+</word>
+<word id="28" pos="n">
+<token>学生</token>
+</word>
+<word id="29" pos="m">
+<token>一</token>
+</word>
+<word id="30" pos="q">
+<token>脸</token>
+</word>
+<word id="31" pos="a">
+<token>灿烂</token>
+</word>
+<word id="32" pos="v">
+<token>站</token>
+</word>
+<word id="33" pos="p">
+<token>在</token>
+</word>
+<word id="34" pos="s">
+<token>门前</token>
+</word>
+<word id="35" pos="w">
+<token>：</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.31">
+<answer instance="叫.31" senseid=""/>
+<context>
+
+“和平墙”协会主席在讲话中引用了法国文学家罗曼·罗兰当年批评和平主义者的一句话，说他们像“呗呗呗”（法语中同“和平”谐音）<head>叫</head>个不休的羊群，可最终还得进屠宰场……
+
+</context>
+<postagging>
+<word id="0" pos="w">
+<token>“</token>
+</word>
+<word id="1" pos="a">
+<token>和平</token>
+</word>
+<word id="2" pos="n">
+<token>墙</token>
+</word>
+<word id="3" pos="w">
+<token>”</token>
+</word>
+<word id="4" pos="n">
+<token>协会</token>
+</word>
+<word id="5" pos="n">
+<token>主席</token>
+</word>
+<word id="6" pos="p">
+<token>在</token>
+</word>
+<word id="7" pos="v">
+<token>讲话</token>
+</word>
+<word id="8" pos="f">
+<token>中</token>
+</word>
+<word id="9" pos="v">
+<token>引用</token>
+</word>
+<word id="10" pos="u">
+<token>了</token>
+</word>
+<word id="11" pos="ns">
+<token>法国</token>
+</word>
+<word id="12" pos="n">
+<token>文学家</token>
+</word>
+<word id="13" pos="nr">
+<token>罗曼·罗兰当年</token>
+</word>
+<word id="14" pos="v">
+<token>批评</token>
+</word>
+<word id="15" pos="n">
+<token>和平主义者</token>
+</word>
+<word id="16" pos="u">
+<token>的</token>
+</word>
+<word id="17" pos="m">
+<token>一</token>
+</word>
+<word id="18" pos="q">
+<token>句</token>
+</word>
+<word id="19" pos="n">
+<token>话</token>
+</word>
+<word id="20" pos="w">
+<token>，</token>
+</word>
+<word id="21" pos="v">
+<token>说</token>
+</word>
+<word id="22" pos="r">
+<token>他们</token>
+</word>
+<word id="23" pos="v">
+<token>像</token>
+</word>
+<word id="24" pos="w">
+<token>“</token>
+</word>
+<word id="25" pos="y">
+<token>呗</token>
+</word>
+<word id="26" pos="y">
+<token>呗</token>
+</word>
+<word id="27" pos="y">
+<token>呗</token>
+</word>
+<word id="28" pos="w">
+<token>”</token>
+</word>
+<word id="29" pos="w">
+<token>（</token>
+</word>
+<word id="30" pos="nz">
+<token>法语</token>
+</word>
+<word id="31" pos="f">
+<token>中</token>
+</word>
+<word id="32" pos="v">
+<token>同</token>
+</word>
+<word id="33" pos="w">
+<token>“</token>
+</word>
+<word id="34" pos="n">
+<token>和平</token>
+</word>
+<word id="35" pos="w">
+<token>”</token>
+</word>
+<word id="36" pos="n">
+<token>谐音</token>
+</word>
+<word id="37" pos="w">
+<token>）</token>
+</word>
+<word id="38" pos="v">
+<token>叫</token>
+</word>
+<word id="39" pos="q">
+<token>个</token>
+</word>
+<word id="40" pos="v">
+<token>不休</token>
+</word>
+<word id="41" pos="u">
+<token>的</token>
+</word>
+<word id="42" pos="n">
+<token>羊群</token>
+</word>
+<word id="43" pos="w">
+<token>，</token>
+</word>
+<word id="44" pos="d">
+<token>可</token>
+</word>
+<word id="45" pos="d">
+<token>最终</token>
+</word>
+<word id="46" pos="d">
+<token>还</token>
+</word>
+<word id="47" pos="v">
+<token>得</token>
+</word>
+<word id="48" pos="v">
+<token>进</token>
+</word>
+<word id="49" pos="n">
+<token>屠宰场</token>
+</word>
+<word id="50" pos="w">
+<token>……</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.32">
+<answer instance="叫.32" senseid=""/>
+<context>
+
+“风在吼，马在<head>叫</head>，黄河在咆哮……
+
+</context>
+<postagging>
+<word id="0" pos="w">
+<token>“</token>
+</word>
+<word id="1" pos="n">
+<token>风</token>
+</word>
+<word id="2" pos="d">
+<token>在</token>
+</word>
+<word id="3" pos="v">
+<token>吼</token>
+</word>
+<word id="4" pos="w">
+<token>，</token>
+</word>
+<word id="5" pos="n">
+<token>马</token>
+</word>
+<word id="6" pos="d">
+<token>在</token>
+</word>
+<word id="7" pos="v">
+<token>叫</token>
+</word>
+<word id="8" pos="w">
+<token>，</token>
+</word>
+<word id="9" pos="ns">
+<token>黄河</token>
+</word>
+<word id="10" pos="d">
+<token>在</token>
+</word>
+<word id="11" pos="v">
+<token>咆哮</token>
+</word>
+<word id="12" pos="w">
+<token>……</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.33">
+<answer instance="叫.33" senseid=""/>
+<context>
+
+只听有人喜<head>叫</head>一声：
+
+</context>
+<postagging>
+<word id="0" pos="d">
+<token>只</token>
+</word>
+<word id="1" pos="v">
+<token>听</token>
+</word>
+<word id="2" pos="r">
+<token>有人</token>
+</word>
+<word id="3" pos="v">
+<token>喜</token>
+</word>
+<word id="4" pos="v">
+<token>叫</token>
+</word>
+<word id="5" pos="m">
+<token>一</token>
+</word>
+<word id="6" pos="q">
+<token>声</token>
+</word>
+<word id="7" pos="w">
+<token>：</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.34">
+<answer instance="叫.34" senseid=""/>
+<context>
+
+河鸥嘎嘎<head>叫</head>着在天空盘旋，尽情施展着明丽的歌喉，扇动的翅膀闪动着银色的光芒。
+
+</context>
+<postagging>
+<word id="0" pos="n">
+<token>河鸥</token>
+</word>
+<word id="1" pos="o">
+<token>嘎嘎</token>
+</word>
+<word id="2" pos="v">
+<token>叫</token>
+</word>
+<word id="3" pos="u">
+<token>着</token>
+</word>
+<word id="4" pos="p">
+<token>在</token>
+</word>
+<word id="5" pos="n">
+<token>天空</token>
+</word>
+<word id="6" pos="v">
+<token>盘旋</token>
+</word>
+<word id="7" pos="w">
+<token>，</token>
+</word>
+<word id="8" pos="d">
+<token>尽情</token>
+</word>
+<word id="9" pos="v">
+<token>施展</token>
+</word>
+<word id="10" pos="u">
+<token>着</token>
+</word>
+<word id="11" pos="a">
+<token>明丽</token>
+</word>
+<word id="12" pos="u">
+<token>的</token>
+</word>
+<word id="13" pos="n">
+<token>歌喉</token>
+</word>
+<word id="14" pos="w">
+<token>，</token>
+</word>
+<word id="15" pos="v">
+<token>扇动</token>
+</word>
+<word id="16" pos="u">
+<token>的</token>
+</word>
+<word id="17" pos="n">
+<token>翅膀</token>
+</word>
+<word id="18" pos="v">
+<token>闪动</token>
+</word>
+<word id="19" pos="u">
+<token>着</token>
+</word>
+<word id="20" pos="n">
+<token>银色</token>
+</word>
+<word id="21" pos="u">
+<token>的</token>
+</word>
+<word id="22" pos="n">
+<token>光芒</token>
+</word>
+<word id="23" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.35">
+<answer instance="叫.35" senseid=""/>
+<context>
+
+滋润布谷鸟<head>叫</head>的季节。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>滋润</token>
+</word>
+<word id="1" pos="n">
+<token>布谷鸟</token>
+</word>
+<word id="2" pos="v">
+<token>叫</token>
+</word>
+<word id="3" pos="u">
+<token>的</token>
+</word>
+<word id="4" pos="n">
+<token>季节</token>
+</word>
+<word id="5" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.36">
+<answer instance="叫.36" senseid=""/>
+<context>
+
+淡化剧情，淡化表演，淡化演员的全面素质，而只注重唱功，热衷于几口能<head>叫</head>彩的唱段或片段的几手绝活。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>淡化</token>
+</word>
+<word id="1" pos="n">
+<token>剧情</token>
+</word>
+<word id="2" pos="w">
+<token>，</token>
+</word>
+<word id="3" pos="v">
+<token>淡化</token>
+</word>
+<word id="4" pos="v">
+<token>表演</token>
+</word>
+<word id="5" pos="w">
+<token>，</token>
+</word>
+<word id="6" pos="v">
+<token>淡化</token>
+</word>
+<word id="7" pos="n">
+<token>演员</token>
+</word>
+<word id="8" pos="u">
+<token>的</token>
+</word>
+<word id="9" pos="a">
+<token>全面</token>
+</word>
+<word id="10" pos="n">
+<token>素质</token>
+</word>
+<word id="11" pos="w">
+<token>，</token>
+</word>
+<word id="12" pos="c">
+<token>而</token>
+</word>
+<word id="13" pos="d">
+<token>只</token>
+</word>
+<word id="14" pos="v">
+<token>注重</token>
+</word>
+<word id="15" pos="n">
+<token>唱功</token>
+</word>
+<word id="16" pos="w">
+<token>，</token>
+</word>
+<word id="17" pos="v">
+<token>热衷</token>
+</word>
+<word id="18" pos="p">
+<token>于</token>
+</word>
+<word id="19" pos="m">
+<token>几</token>
+</word>
+<word id="20" pos="q">
+<token>口</token>
+</word>
+<word id="21" pos="v">
+<token>能</token>
+</word>
+<word id="22" pos="v">
+<token>叫</token>
+</word>
+<word id="23" pos="Ng">
+<token>彩</token>
+</word>
+<word id="24" pos="u">
+<token>的</token>
+</word>
+<word id="25" pos="n">
+<token>唱段</token>
+</word>
+<word id="26" pos="c">
+<token>或</token>
+</word>
+<word id="27" pos="n">
+<token>片段</token>
+</word>
+<word id="28" pos="u">
+<token>的</token>
+</word>
+<word id="29" pos="m">
+<token>几</token>
+</word>
+<word id="30" pos="n">
+<token>手</token>
+</word>
+<word id="31" pos="n">
+<token>绝活</token>
+</word>
+<word id="32" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.37">
+<answer instance="叫.37" senseid=""/>
+<context>
+
+从今年的国际玩具展览中可以看到，无论是帮助婴儿学语的智能玩具“牙牙学语”，还是将布娃娃同电脑连接而在屏幕上下载布娃娃形象等画面的“我的巴尼”，或是能与儿童交谈对话的宝贝“迪瓦·斯塔尔兹”，以及能<head>叫</head>、能吃、能跑、能看门的电子狗，都包含了或多或少的高科技成分。
+
+</context>
+<postagging>
+<word id="0" pos="p">
+<token>从</token>
+</word>
+<word id="1" pos="t">
+<token>今年</token>
+</word>
+<word id="2" pos="u">
+<token>的</token>
+</word>
+<word id="3" pos="n">
+<token>国际</token>
+</word>
+<word id="4" pos="n">
+<token>玩具</token>
+</word>
+<word id="5" pos="v">
+<token>展览</token>
+</word>
+<word id="6" pos="f">
+<token>中</token>
+</word>
+<word id="7" pos="v">
+<token>可以</token>
+</word>
+<word id="8" pos="v">
+<token>看到</token>
+</word>
+<word id="9" pos="w">
+<token>，</token>
+</word>
+<word id="10" pos="c">
+<token>无论</token>
+</word>
+<word id="11" pos="v">
+<token>是</token>
+</word>
+<word id="12" pos="v">
+<token>帮助</token>
+</word>
+<word id="13" pos="n">
+<token>婴儿</token>
+</word>
+<word id="14" pos="v">
+<token>学</token>
+</word>
+<word id="15" pos="Ng">
+<token>语</token>
+</word>
+<word id="16" pos="u">
+<token>的</token>
+</word>
+<word id="17" pos="n">
+<token>智能</token>
+</word>
+<word id="18" pos="n">
+<token>玩具</token>
+</word>
+<word id="19" pos="w">
+<token>“</token>
+</word>
+<word id="20" pos="i">
+<token>牙牙学语</token>
+</word>
+<word id="21" pos="w">
+<token>”</token>
+</word>
+<word id="22" pos="w">
+<token>，</token>
+</word>
+<word id="23" pos="d">
+<token>还是</token>
+</word>
+<word id="24" pos="p">
+<token>将</token>
+</word>
+<word id="25" pos="n">
+<token>布娃娃</token>
+</word>
+<word id="26" pos="p">
+<token>同</token>
+</word>
+<word id="27" pos="n">
+<token>电脑</token>
+</word>
+<word id="28" pos="v">
+<token>连接</token>
+</word>
+<word id="29" pos="c">
+<token>而</token>
+</word>
+<word id="30" pos="p">
+<token>在</token>
+</word>
+<word id="31" pos="n">
+<token>屏幕</token>
+</word>
+<word id="32" pos="f">
+<token>上</token>
+</word>
+<word id="33" pos="v">
+<token>下载</token>
+</word>
+<word id="34" pos="n">
+<token>布娃娃</token>
+</word>
+<word id="35" pos="n">
+<token>形象</token>
+</word>
+<word id="36" pos="u">
+<token>等</token>
+</word>
+<word id="37" pos="n">
+<token>画面</token>
+</word>
+<word id="38" pos="u">
+<token>的</token>
+</word>
+<word id="39" pos="w">
+<token>“</token>
+</word>
+<word id="40" pos="r">
+<token>我</token>
+</word>
+<word id="41" pos="u">
+<token>的</token>
+</word>
+<word id="42" pos="nr">
+<token>巴尼</token>
+</word>
+<word id="43" pos="w">
+<token>”</token>
+</word>
+<word id="44" pos="w">
+<token>，</token>
+</word>
+<word id="45" pos="c">
+<token>或是</token>
+</word>
+<word id="46" pos="v">
+<token>能</token>
+</word>
+<word id="47" pos="p">
+<token>与</token>
+</word>
+<word id="48" pos="n">
+<token>儿童</token>
+</word>
+<word id="49" pos="v">
+<token>交谈</token>
+</word>
+<word id="50" pos="v">
+<token>对话</token>
+</word>
+<word id="51" pos="u">
+<token>的</token>
+</word>
+<word id="52" pos="n">
+<token>宝贝</token>
+</word>
+<word id="53" pos="w">
+<token>“</token>
+</word>
+<word id="54" pos="nr">
+<token>迪瓦·斯塔尔兹</token>
+</word>
+<word id="55" pos="w">
+<token>”</token>
+</word>
+<word id="56" pos="w">
+<token>，</token>
+</word>
+<word id="57" pos="c">
+<token>以及</token>
+</word>
+<word id="58" pos="v">
+<token>能</token>
+</word>
+<word id="59" pos="v">
+<token>叫</token>
+</word>
+<word id="60" pos="w">
+<token>、</token>
+</word>
+<word id="61" pos="v">
+<token>能</token>
+</word>
+<word id="62" pos="v">
+<token>吃</token>
+</word>
+<word id="63" pos="w">
+<token>、</token>
+</word>
+<word id="64" pos="v">
+<token>能</token>
+</word>
+<word id="65" pos="v">
+<token>跑</token>
+</word>
+<word id="66" pos="w">
+<token>、</token>
+</word>
+<word id="67" pos="v">
+<token>能</token>
+</word>
+<word id="68" pos="v">
+<token>看门</token>
+</word>
+<word id="69" pos="u">
+<token>的</token>
+</word>
+<word id="70" pos="n">
+<token>电子</token>
+</word>
+<word id="71" pos="n">
+<token>狗</token>
+</word>
+<word id="72" pos="w">
+<token>，</token>
+</word>
+<word id="73" pos="d">
+<token>都</token>
+</word>
+<word id="74" pos="v">
+<token>包含</token>
+</word>
+<word id="75" pos="u">
+<token>了</token>
+</word>
+<word id="76" pos="i">
+<token>或多或少</token>
+</word>
+<word id="77" pos="u">
+<token>的</token>
+</word>
+<word id="78" pos="a">
+<token>高</token>
+</word>
+<word id="79" pos="n">
+<token>科技</token>
+</word>
+<word id="80" pos="n">
+<token>成分</token>
+</word>
+<word id="81" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="叫.38">
+<answer instance="叫.38" senseid=""/>
+<context>
+
+祖祖辈辈生活在这里的苗族农民年复一年地日出而作、日落而息，每天只有劳动、吃饭、睡觉三件事，听到的只是鸡鸣、狗<head>叫</head>、娃娃哭三种声音，文化生活十分贫乏。
+
+</context>
+<postagging>
+<word id="0" pos="i">
+<token>祖祖辈辈</token>
+</word>
+<word id="1" pos="v">
+<token>生活</token>
+</word>
+<word id="2" pos="p">
+<token>在</token>
+</word>
+<word id="3" pos="r">
+<token>这里</token>
+</word>
+<word id="4" pos="u">
+<token>的</token>
+</word>
+<word id="5" pos="nz">
+<token>苗族</token>
+</word>
+<word id="6" pos="n">
+<token>农民</token>
+</word>
+<word id="7" pos="l">
+<token>年复一年</token>
+</word>
+<word id="8" pos="u">
+<token>地</token>
+</word>
+<word id="9" pos="i">
+<token>日出而作</token>
+</word>
+<word id="10" pos="w">
+<token>、</token>
+</word>
+<word id="11" pos="l">
+<token>日落而息</token>
+</word>
+<word id="12" pos="w">
+<token>，</token>
+</word>
+<word id="13" pos="r">
+<token>每天</token>
+</word>
+<word id="14" pos="d">
+<token>只</token>
+</word>
+<word id="15" pos="v">
+<token>有</token>
+</word>
+<word id="16" pos="v">
+<token>劳动</token>
+</word>
+<word id="17" pos="w">
+<token>、</token>
+</word>
+<word id="18" pos="v">
+<token>吃饭</token>
+</word>
+<word id="19" pos="w">
+<token>、</token>
+</word>
+<word id="20" pos="v">
+<token>睡觉</token>
+</word>
+<word id="21" pos="m">
+<token>三</token>
+</word>
+<word id="22" pos="q">
+<token>件</token>
+</word>
+<word id="23" pos="n">
+<token>事</token>
+</word>
+<word id="24" pos="w">
+<token>，</token>
+</word>
+<word id="25" pos="v">
+<token>听到</token>
+</word>
+<word id="26" pos="u">
+<token>的</token>
+</word>
+<word id="27" pos="d">
+<token>只</token>
+</word>
+<word id="28" pos="v">
+<token>是</token>
+</word>
+<word id="29" pos="v">
+<token>鸡鸣</token>
+</word>
+<word id="30" pos="w">
+<token>、</token>
+</word>
+<word id="31" pos="n">
+<token>狗</token>
+</word>
+<word id="32" pos="v">
+<token>叫</token>
+</word>
+<word id="33" pos="w">
+<token>、</token>
+</word>
+<word id="34" pos="n">
+<token>娃娃</token>
+</word>
+<word id="35" pos="v">
+<token>哭</token>
+</word>
+<word id="36" pos="m">
+<token>三</token>
+</word>
+<word id="37" pos="q">
+<token>种</token>
+</word>
+<word id="38" pos="n">
+<token>声音</token>
+</word>
+<word id="39" pos="w">
+<token>，</token>
+</word>
+<word id="40" pos="n">
+<token>文化</token>
+</word>
+<word id="41" pos="vn">
+<token>生活</token>
+</word>
+<word id="42" pos="d">
+<token>十分</token>
+</word>
+<word id="43" pos="a">
+<token>贫乏</token>
+</word>
+<word id="44" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+</lexelt>
+<lexelt item="处">
+
+<instance id="处.1">
+<answer instance="处.1" senseid=""/>
+<context>
+
+实践证明，我们党的伟大、光荣、正确之<head>处</head>，并不在于党内不发生这样那样的问题，不出现这样那样的消极腐败现象，而在于她完全有能力解决自身存在的腐败问题。
+
+</context>
+<postagging>
+<word id="0" pos="n">
+<token>实践</token>
+</word>
+<word id="1" pos="v">
+<token>证明</token>
+</word>
+<word id="2" pos="w">
+<token>，</token>
+</word>
+<word id="3" pos="r">
+<token>我们</token>
+</word>
+<word id="4" pos="n">
+<token>党</token>
+</word>
+<word id="5" pos="u">
+<token>的</token>
+</word>
+<word id="6" pos="a">
+<token>伟大</token>
+</word>
+<word id="7" pos="w">
+<token>、</token>
+</word>
+<word id="8" pos="a">
+<token>光荣</token>
+</word>
+<word id="9" pos="w">
+<token>、</token>
+</word>
+<word id="10" pos="a">
+<token>正确</token>
+</word>
+<word id="11" pos="u">
+<token>之</token>
+</word>
+<word id="12" pos="n">
+<token>处</token>
+</word>
+<word id="13" pos="w">
+<token>，</token>
+</word>
+<word id="14" pos="d">
+<token>并</token>
+</word>
+<word id="15" pos="d">
+<token>不</token>
+</word>
+<word id="16" pos="v">
+<token>在于</token>
+</word>
+<word id="17" pos="s">
+<token>党内</token>
+</word>
+<word id="18" pos="d">
+<token>不</token>
+</word>
+<word id="19" pos="v">
+<token>发生</token>
+</word>
+<word id="20" pos="r">
+<token>这样</token>
+</word>
+<word id="21" pos="r">
+<token>那样</token>
+</word>
+<word id="22" pos="u">
+<token>的</token>
+</word>
+<word id="23" pos="n">
+<token>问题</token>
+</word>
+<word id="24" pos="w">
+<token>，</token>
+</word>
+<word id="25" pos="d">
+<token>不</token>
+</word>
+<word id="26" pos="v">
+<token>出现</token>
+</word>
+<word id="27" pos="r">
+<token>这样</token>
+</word>
+<word id="28" pos="r">
+<token>那样</token>
+</word>
+<word id="29" pos="u">
+<token>的</token>
+</word>
+<word id="30" pos="a">
+<token>消极</token>
+</word>
+<word id="31" pos="a">
+<token>腐败</token>
+</word>
+<word id="32" pos="n">
+<token>现象</token>
+</word>
+<word id="33" pos="w">
+<token>，</token>
+</word>
+<word id="34" pos="c">
+<token>而</token>
+</word>
+<word id="35" pos="v">
+<token>在于</token>
+</word>
+<word id="36" pos="r">
+<token>她</token>
+</word>
+<word id="37" pos="ad">
+<token>完全</token>
+</word>
+<word id="38" pos="v">
+<token>有</token>
+</word>
+<word id="39" pos="n">
+<token>能力</token>
+</word>
+<word id="40" pos="v">
+<token>解决</token>
+</word>
+<word id="41" pos="r">
+<token>自身</token>
+</word>
+<word id="42" pos="v">
+<token>存在</token>
+</word>
+<word id="43" pos="u">
+<token>的</token>
+</word>
+<word id="44" pos="a">
+<token>腐败</token>
+</word>
+<word id="45" pos="n">
+<token>问题</token>
+</word>
+<word id="46" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.2">
+<answer instance="处.2" senseid=""/>
+<context>
+
+日前，几位中国留学生同笔者聊天，说起美式橄榄球，他们不明白这种除了粗野的冲撞、没命的狂奔之外，简直欣赏不到什么技巧的球赛到底有何吸引人之<head>处</head>，值得美国人如此狂热。
+
+</context>
+<postagging>
+<word id="0" pos="t">
+<token>日前</token>
+</word>
+<word id="1" pos="w">
+<token>，</token>
+</word>
+<word id="2" pos="m">
+<token>几</token>
+</word>
+<word id="3" pos="q">
+<token>位</token>
+</word>
+<word id="4" pos="ns">
+<token>中国</token>
+</word>
+<word id="5" pos="n">
+<token>留学生</token>
+</word>
+<word id="6" pos="p">
+<token>同</token>
+</word>
+<word id="7" pos="n">
+<token>笔者</token>
+</word>
+<word id="8" pos="v">
+<token>聊天</token>
+</word>
+<word id="9" pos="w">
+<token>，</token>
+</word>
+<word id="10" pos="v">
+<token>说</token>
+</word>
+<word id="11" pos="v">
+<token>起</token>
+</word>
+<word id="12" pos="b">
+<token>美式</token>
+</word>
+<word id="13" pos="n">
+<token>橄榄球</token>
+</word>
+<word id="14" pos="w">
+<token>，</token>
+</word>
+<word id="15" pos="r">
+<token>他们</token>
+</word>
+<word id="16" pos="d">
+<token>不</token>
+</word>
+<word id="17" pos="v">
+<token>明白</token>
+</word>
+<word id="18" pos="r">
+<token>这种</token>
+</word>
+<word id="19" pos="p">
+<token>除了</token>
+</word>
+<word id="20" pos="a">
+<token>粗野</token>
+</word>
+<word id="21" pos="u">
+<token>的</token>
+</word>
+<word id="22" pos="vn">
+<token>冲撞</token>
+</word>
+<word id="23" pos="w">
+<token>、</token>
+</word>
+<word id="24" pos="v">
+<token>没命</token>
+</word>
+<word id="25" pos="u">
+<token>的</token>
+</word>
+<word id="26" pos="v">
+<token>狂奔</token>
+</word>
+<word id="27" pos="f">
+<token>之外</token>
+</word>
+<word id="28" pos="w">
+<token>，</token>
+</word>
+<word id="29" pos="d">
+<token>简直</token>
+</word>
+<word id="30" pos="v">
+<token>欣赏</token>
+</word>
+<word id="31" pos="d">
+<token>不</token>
+</word>
+<word id="32" pos="v">
+<token>到</token>
+</word>
+<word id="33" pos="r">
+<token>什么</token>
+</word>
+<word id="34" pos="n">
+<token>技巧</token>
+</word>
+<word id="35" pos="u">
+<token>的</token>
+</word>
+<word id="36" pos="n">
+<token>球赛</token>
+</word>
+<word id="37" pos="d">
+<token>到底</token>
+</word>
+<word id="38" pos="v">
+<token>有</token>
+</word>
+<word id="39" pos="r">
+<token>何</token>
+</word>
+<word id="40" pos="v">
+<token>吸引</token>
+</word>
+<word id="41" pos="n">
+<token>人</token>
+</word>
+<word id="42" pos="u">
+<token>之</token>
+</word>
+<word id="43" pos="n">
+<token>处</token>
+</word>
+<word id="44" pos="w">
+<token>，</token>
+</word>
+<word id="45" pos="v">
+<token>值得</token>
+</word>
+<word id="46" pos="ns">
+<token>美国</token>
+</word>
+<word id="47" pos="n">
+<token>人</token>
+</word>
+<word id="48" pos="r">
+<token>如此</token>
+</word>
+<word id="49" pos="a">
+<token>狂热</token>
+</word>
+<word id="50" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.3">
+<answer instance="处.3" senseid=""/>
+<context>
+
+用头顶着货物走路，同手提或肩扛相比较，确实有其优越之<head>处</head>。
+
+</context>
+<postagging>
+<word id="0" pos="p">
+<token>用</token>
+</word>
+<word id="1" pos="n">
+<token>头</token>
+</word>
+<word id="2" pos="v">
+<token>顶</token>
+</word>
+<word id="3" pos="u">
+<token>着</token>
+</word>
+<word id="4" pos="n">
+<token>货物</token>
+</word>
+<word id="5" pos="v">
+<token>走路</token>
+</word>
+<word id="6" pos="w">
+<token>，</token>
+</word>
+<word id="7" pos="p">
+<token>同</token>
+</word>
+<word id="8" pos="n">
+<token>手</token>
+</word>
+<word id="9" pos="v">
+<token>提</token>
+</word>
+<word id="10" pos="c">
+<token>或</token>
+</word>
+<word id="11" pos="n">
+<token>肩</token>
+</word>
+<word id="12" pos="v">
+<token>扛</token>
+</word>
+<word id="13" pos="d">
+<token>相</token>
+</word>
+<word id="14" pos="v">
+<token>比较</token>
+</word>
+<word id="15" pos="w">
+<token>，</token>
+</word>
+<word id="16" pos="ad">
+<token>确实</token>
+</word>
+<word id="17" pos="v">
+<token>有</token>
+</word>
+<word id="18" pos="r">
+<token>其</token>
+</word>
+<word id="19" pos="a">
+<token>优越</token>
+</word>
+<word id="20" pos="u">
+<token>之</token>
+</word>
+<word id="21" pos="n">
+<token>处</token>
+</word>
+<word id="22" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.4">
+<answer instance="处.4" senseid=""/>
+<context>
+
+上海“三抓”的可贵之<head>处</head>，就在于他们瞄准“转化”中的关键性问题，一个问题一个问题地认真解决，为高新技术成果走向产业化，提供了“桥”和“船”。
+
+</context>
+<postagging>
+<word id="0" pos="ns">
+<token>上海</token>
+</word>
+<word id="1" pos="w">
+<token>“</token>
+</word>
+<word id="2" pos="m">
+<token>三</token>
+</word>
+<word id="3" pos="v">
+<token>抓</token>
+</word>
+<word id="4" pos="w">
+<token>”</token>
+</word>
+<word id="5" pos="u">
+<token>的</token>
+</word>
+<word id="6" pos="a">
+<token>可贵</token>
+</word>
+<word id="7" pos="u">
+<token>之</token>
+</word>
+<word id="8" pos="n">
+<token>处</token>
+</word>
+<word id="9" pos="w">
+<token>，</token>
+</word>
+<word id="10" pos="p">
+<token>就</token>
+</word>
+<word id="11" pos="v">
+<token>在于</token>
+</word>
+<word id="12" pos="r">
+<token>他们</token>
+</word>
+<word id="13" pos="v">
+<token>瞄准</token>
+</word>
+<word id="14" pos="w">
+<token>“</token>
+</word>
+<word id="15" pos="v">
+<token>转化</token>
+</word>
+<word id="16" pos="w">
+<token>”</token>
+</word>
+<word id="17" pos="f">
+<token>中</token>
+</word>
+<word id="18" pos="u">
+<token>的</token>
+</word>
+<word id="19" pos="n">
+<token>关键性</token>
+</word>
+<word id="20" pos="n">
+<token>问题</token>
+</word>
+<word id="21" pos="w">
+<token>，</token>
+</word>
+<word id="22" pos="m">
+<token>一个</token>
+</word>
+<word id="23" pos="n">
+<token>问题</token>
+</word>
+<word id="24" pos="m">
+<token>一个</token>
+</word>
+<word id="25" pos="n">
+<token>问题</token>
+</word>
+<word id="26" pos="u">
+<token>地</token>
+</word>
+<word id="27" pos="ad">
+<token>认真</token>
+</word>
+<word id="28" pos="v">
+<token>解决</token>
+</word>
+<word id="29" pos="w">
+<token>，</token>
+</word>
+<word id="30" pos="p">
+<token>为</token>
+</word>
+<word id="31" pos="n">
+<token>高新技术</token>
+</word>
+<word id="32" pos="n">
+<token>成果</token>
+</word>
+<word id="33" pos="v">
+<token>走向</token>
+</word>
+<word id="34" pos="v">
+<token>产业化</token>
+</word>
+<word id="35" pos="w">
+<token>，</token>
+</word>
+<word id="36" pos="v">
+<token>提供</token>
+</word>
+<word id="37" pos="u">
+<token>了</token>
+</word>
+<word id="38" pos="w">
+<token>“</token>
+</word>
+<word id="39" pos="n">
+<token>桥</token>
+</word>
+<word id="40" pos="w">
+<token>”</token>
+</word>
+<word id="41" pos="c">
+<token>和</token>
+</word>
+<word id="42" pos="w">
+<token>“</token>
+</word>
+<word id="43" pos="n">
+<token>船</token>
+</word>
+<word id="44" pos="w">
+<token>”</token>
+</word>
+<word id="45" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.5">
+<answer instance="处.5" senseid=""/>
+<context>
+
+亚星的可贵之<head>处</head>就在于，他们不仅看到了问题，而且找到解决问题的钥匙，提供了一套行之有效的好经验、好办法。
+
+</context>
+<postagging>
+<word id="0" pos="nz">
+<token>亚星</token>
+</word>
+<word id="1" pos="u">
+<token>的</token>
+</word>
+<word id="2" pos="a">
+<token>可贵</token>
+</word>
+<word id="3" pos="u">
+<token>之</token>
+</word>
+<word id="4" pos="n">
+<token>处</token>
+</word>
+<word id="5" pos="d">
+<token>就</token>
+</word>
+<word id="6" pos="v">
+<token>在于</token>
+</word>
+<word id="7" pos="w">
+<token>，</token>
+</word>
+<word id="8" pos="r">
+<token>他们</token>
+</word>
+<word id="9" pos="c">
+<token>不仅</token>
+</word>
+<word id="10" pos="v">
+<token>看到</token>
+</word>
+<word id="11" pos="u">
+<token>了</token>
+</word>
+<word id="12" pos="n">
+<token>问题</token>
+</word>
+<word id="13" pos="w">
+<token>，</token>
+</word>
+<word id="14" pos="c">
+<token>而且</token>
+</word>
+<word id="15" pos="v">
+<token>找到</token>
+</word>
+<word id="16" pos="v">
+<token>解决</token>
+</word>
+<word id="17" pos="n">
+<token>问题</token>
+</word>
+<word id="18" pos="u">
+<token>的</token>
+</word>
+<word id="19" pos="n">
+<token>钥匙</token>
+</word>
+<word id="20" pos="w">
+<token>，</token>
+</word>
+<word id="21" pos="v">
+<token>提供</token>
+</word>
+<word id="22" pos="u">
+<token>了</token>
+</word>
+<word id="23" pos="m">
+<token>一</token>
+</word>
+<word id="24" pos="q">
+<token>套</token>
+</word>
+<word id="25" pos="i">
+<token>行之有效</token>
+</word>
+<word id="26" pos="u">
+<token>的</token>
+</word>
+<word id="27" pos="a">
+<token>好</token>
+</word>
+<word id="28" pos="n">
+<token>经验</token>
+</word>
+<word id="29" pos="w">
+<token>、</token>
+</word>
+<word id="30" pos="a">
+<token>好</token>
+</word>
+<word id="31" pos="n">
+<token>办法</token>
+</word>
+<word id="32" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.6">
+<answer instance="处.6" senseid=""/>
+<context>
+
+美国联合国协会副主席当场指出了102亿美元数字的不实之<head>处</head>。
+
+</context>
+<postagging>
+<word id="0" pos="nt">
+<token>
+美国联合国协会
+</token>
+<subword id="0" pos="ns">
+<token>美国</token>
+</subword>
+<subword id="1" pos="nt">
+<token>联合国</token>
+</subword>
+<subword id="2" pos="na">
+<token>协会</token>
+</subword>
+</word>
+<word id="1" pos="b">
+<token>副</token>
+</word>
+<word id="2" pos="n">
+<token>主席</token>
+</word>
+<word id="3" pos="d">
+<token>当场</token>
+</word>
+<word id="4" pos="v">
+<token>指出</token>
+</word>
+<word id="5" pos="u">
+<token>了</token>
+</word>
+<word id="6" pos="m">
+<token>102亿</token>
+</word>
+<word id="7" pos="q">
+<token>美元</token>
+</word>
+<word id="8" pos="n">
+<token>数字</token>
+</word>
+<word id="9" pos="u">
+<token>的</token>
+</word>
+<word id="10" pos="d">
+<token>不</token>
+</word>
+<word id="11" pos="a">
+<token>实</token>
+</word>
+<word id="12" pos="u">
+<token>之</token>
+</word>
+<word id="13" pos="n">
+<token>处</token>
+</word>
+<word id="14" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.7">
+<answer instance="处.7" senseid=""/>
+<context>
+
+其二，“秋菊”日见增多的事实，也表明了某些行政部门在执法中还有许多未尽如人意之<head>处</head>，不乏以权代法“逼”“秋菊”上法庭的现象。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>其二</token>
+</word>
+<word id="1" pos="w">
+<token>，</token>
+</word>
+<word id="2" pos="w">
+<token>“</token>
+</word>
+<word id="3" pos="nr">
+<token>秋菊</token>
+</word>
+<word id="4" pos="w">
+<token>”</token>
+</word>
+<word id="5" pos="l">
+<token>日见增多</token>
+</word>
+<word id="6" pos="u">
+<token>的</token>
+</word>
+<word id="7" pos="n">
+<token>事实</token>
+</word>
+<word id="8" pos="w">
+<token>，</token>
+</word>
+<word id="9" pos="d">
+<token>也</token>
+</word>
+<word id="10" pos="v">
+<token>表明</token>
+</word>
+<word id="11" pos="u">
+<token>了</token>
+</word>
+<word id="12" pos="r">
+<token>某些</token>
+</word>
+<word id="13" pos="n">
+<token>行政部门</token>
+</word>
+<word id="14" pos="p">
+<token>在</token>
+</word>
+<word id="15" pos="v">
+<token>执法</token>
+</word>
+<word id="16" pos="f">
+<token>中</token>
+</word>
+<word id="17" pos="v">
+<token>还有</token>
+</word>
+<word id="18" pos="m">
+<token>许多</token>
+</word>
+<word id="19" pos="d">
+<token>未</token>
+</word>
+<word id="20" pos="i">
+<token>尽如人意</token>
+</word>
+<word id="21" pos="u">
+<token>之</token>
+</word>
+<word id="22" pos="n">
+<token>处</token>
+</word>
+<word id="23" pos="w">
+<token>，</token>
+</word>
+<word id="24" pos="v">
+<token>不乏</token>
+</word>
+<word id="25" pos="p">
+<token>以</token>
+</word>
+<word id="26" pos="n">
+<token>权</token>
+</word>
+<word id="27" pos="v">
+<token>代</token>
+</word>
+<word id="28" pos="n">
+<token>法</token>
+</word>
+<word id="29" pos="w">
+<token>“</token>
+</word>
+<word id="30" pos="v">
+<token>逼</token>
+</word>
+<word id="31" pos="w">
+<token>”</token>
+</word>
+<word id="32" pos="w">
+<token>“</token>
+</word>
+<word id="33" pos="nr">
+<token>秋菊</token>
+</word>
+<word id="34" pos="w">
+<token>”</token>
+</word>
+<word id="35" pos="v">
+<token>上</token>
+</word>
+<word id="36" pos="n">
+<token>法庭</token>
+</word>
+<word id="37" pos="u">
+<token>的</token>
+</word>
+<word id="38" pos="n">
+<token>现象</token>
+</word>
+<word id="39" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.8">
+<answer instance="处.8" senseid=""/>
+<context>
+
+《史纲》的贡献在于，把中国史学史发展的历史过程及其规律性史论结合地展现在读者面前，这也是它有别于其他中国史学史著作之<head>处</head>。
+
+</context>
+<postagging>
+<word id="0" pos="w">
+<token>《</token>
+</word>
+<word id="1" pos="n">
+<token>史纲</token>
+</word>
+<word id="2" pos="w">
+<token>》</token>
+</word>
+<word id="3" pos="u">
+<token>的</token>
+</word>
+<word id="4" pos="n">
+<token>贡献</token>
+</word>
+<word id="5" pos="v">
+<token>在于</token>
+</word>
+<word id="6" pos="w">
+<token>，</token>
+</word>
+<word id="7" pos="p">
+<token>把</token>
+</word>
+<word id="8" pos="ns">
+<token>中国</token>
+</word>
+<word id="9" pos="n">
+<token>史学</token>
+</word>
+<word id="10" pos="Ng">
+<token>史</token>
+</word>
+<word id="11" pos="v">
+<token>发展</token>
+</word>
+<word id="12" pos="u">
+<token>的</token>
+</word>
+<word id="13" pos="n">
+<token>历史</token>
+</word>
+<word id="14" pos="n">
+<token>过程</token>
+</word>
+<word id="15" pos="c">
+<token>及其</token>
+</word>
+<word id="16" pos="n">
+<token>规律性</token>
+</word>
+<word id="17" pos="n">
+<token>史论</token>
+</word>
+<word id="18" pos="v">
+<token>结合</token>
+</word>
+<word id="19" pos="u">
+<token>地</token>
+</word>
+<word id="20" pos="v">
+<token>展现</token>
+</word>
+<word id="21" pos="p">
+<token>在</token>
+</word>
+<word id="22" pos="n">
+<token>读者</token>
+</word>
+<word id="23" pos="f">
+<token>面前</token>
+</word>
+<word id="24" pos="w">
+<token>，</token>
+</word>
+<word id="25" pos="r">
+<token>这</token>
+</word>
+<word id="26" pos="d">
+<token>也</token>
+</word>
+<word id="27" pos="v">
+<token>是</token>
+</word>
+<word id="28" pos="r">
+<token>它</token>
+</word>
+<word id="29" pos="v">
+<token>有别于</token>
+</word>
+<word id="30" pos="r">
+<token>其他</token>
+</word>
+<word id="31" pos="ns">
+<token>中国</token>
+</word>
+<word id="32" pos="n">
+<token>史学</token>
+</word>
+<word id="33" pos="Ng">
+<token>史</token>
+</word>
+<word id="34" pos="n">
+<token>著作</token>
+</word>
+<word id="35" pos="u">
+<token>之</token>
+</word>
+<word id="36" pos="n">
+<token>处</token>
+</word>
+<word id="37" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.9">
+<answer instance="处.9" senseid=""/>
+<context>
+
+教授们与传统的中学语文教学的不同之<head>处</head>，是免去了对课文进行模式化的分析、举例、造句的负担，而融入了独特的审美情趣和人文关怀，从始至终有血有肉、声情并茂、引人遐想、富于启迪。
+
+</context>
+<postagging>
+<word id="0" pos="n">
+<token>教授</token>
+</word>
+<word id="1" pos="k">
+<token>们</token>
+</word>
+<word id="2" pos="p">
+<token>与</token>
+</word>
+<word id="3" pos="a">
+<token>传统</token>
+</word>
+<word id="4" pos="u">
+<token>的</token>
+</word>
+<word id="5" pos="n">
+<token>中学</token>
+</word>
+<word id="6" pos="n">
+<token>语文</token>
+</word>
+<word id="7" pos="n">
+<token>教学</token>
+</word>
+<word id="8" pos="u">
+<token>的</token>
+</word>
+<word id="9" pos="a">
+<token>不同</token>
+</word>
+<word id="10" pos="u">
+<token>之</token>
+</word>
+<word id="11" pos="n">
+<token>处</token>
+</word>
+<word id="12" pos="w">
+<token>，</token>
+</word>
+<word id="13" pos="v">
+<token>是</token>
+</word>
+<word id="14" pos="v">
+<token>免去</token>
+</word>
+<word id="15" pos="u">
+<token>了</token>
+</word>
+<word id="16" pos="p">
+<token>对</token>
+</word>
+<word id="17" pos="n">
+<token>课文</token>
+</word>
+<word id="18" pos="v">
+<token>进行</token>
+</word>
+<word id="19" pos="v">
+<token>模式化</token>
+</word>
+<word id="20" pos="u">
+<token>的</token>
+</word>
+<word id="21" pos="vn">
+<token>分析</token>
+</word>
+<word id="22" pos="w">
+<token>、</token>
+</word>
+<word id="23" pos="vn">
+<token>举例</token>
+</word>
+<word id="24" pos="w">
+<token>、</token>
+</word>
+<word id="25" pos="vn">
+<token>造句</token>
+</word>
+<word id="26" pos="u">
+<token>的</token>
+</word>
+<word id="27" pos="n">
+<token>负担</token>
+</word>
+<word id="28" pos="w">
+<token>，</token>
+</word>
+<word id="29" pos="c">
+<token>而</token>
+</word>
+<word id="30" pos="v">
+<token>融入</token>
+</word>
+<word id="31" pos="u">
+<token>了</token>
+</word>
+<word id="32" pos="a">
+<token>独特</token>
+</word>
+<word id="33" pos="u">
+<token>的</token>
+</word>
+<word id="34" pos="vn">
+<token>审美</token>
+</word>
+<word id="35" pos="n">
+<token>情趣</token>
+</word>
+<word id="36" pos="c">
+<token>和</token>
+</word>
+<word id="37" pos="n">
+<token>人文</token>
+</word>
+<word id="38" pos="vn">
+<token>关怀</token>
+</word>
+<word id="39" pos="w">
+<token>，</token>
+</word>
+<word id="40" pos="l">
+<token>从始至终</token>
+</word>
+<word id="41" pos="i">
+<token>有血有肉</token>
+</word>
+<word id="42" pos="w">
+<token>、</token>
+</word>
+<word id="43" pos="i">
+<token>声情并茂</token>
+</word>
+<word id="44" pos="w">
+<token>、</token>
+</word>
+<word id="45" pos="v">
+<token>引</token>
+</word>
+<word id="46" pos="n">
+<token>人</token>
+</word>
+<word id="47" pos="v">
+<token>遐想</token>
+</word>
+<word id="48" pos="w">
+<token>、</token>
+</word>
+<word id="49" pos="v">
+<token>富于</token>
+</word>
+<word id="50" pos="v">
+<token>启迪</token>
+</word>
+<word id="51" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.10">
+<answer instance="处.10" senseid=""/>
+<context>
+
+在日本独特的温泉文化上，巧妙地植入夏威夷迷人的异国风光，这就是岩木市旅游兴市的成功之<head>处</head>。
+
+</context>
+<postagging>
+<word id="0" pos="p">
+<token>在</token>
+</word>
+<word id="1" pos="ns">
+<token>日本</token>
+</word>
+<word id="2" pos="a">
+<token>独特</token>
+</word>
+<word id="3" pos="u">
+<token>的</token>
+</word>
+<word id="4" pos="n">
+<token>温泉</token>
+</word>
+<word id="5" pos="n">
+<token>文化</token>
+</word>
+<word id="6" pos="f">
+<token>上</token>
+</word>
+<word id="7" pos="w">
+<token>，</token>
+</word>
+<word id="8" pos="a">
+<token>巧妙</token>
+</word>
+<word id="9" pos="u">
+<token>地</token>
+</word>
+<word id="10" pos="v">
+<token>植</token>
+</word>
+<word id="11" pos="v">
+<token>入</token>
+</word>
+<word id="12" pos="ns">
+<token>夏威夷</token>
+</word>
+<word id="13" pos="a">
+<token>迷人</token>
+</word>
+<word id="14" pos="u">
+<token>的</token>
+</word>
+<word id="15" pos="n">
+<token>异国</token>
+</word>
+<word id="16" pos="n">
+<token>风光</token>
+</word>
+<word id="17" pos="w">
+<token>，</token>
+</word>
+<word id="18" pos="r">
+<token>这</token>
+</word>
+<word id="19" pos="d">
+<token>就</token>
+</word>
+<word id="20" pos="v">
+<token>是</token>
+</word>
+<word id="21" pos="ns">
+<token>岩木市</token>
+</word>
+<word id="22" pos="v">
+<token>旅游</token>
+</word>
+<word id="23" pos="v">
+<token>兴</token>
+</word>
+<word id="24" pos="n">
+<token>市</token>
+</word>
+<word id="25" pos="u">
+<token>的</token>
+</word>
+<word id="26" pos="a">
+<token>成功</token>
+</word>
+<word id="27" pos="u">
+<token>之</token>
+</word>
+<word id="28" pos="n">
+<token>处</token>
+</word>
+<word id="29" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.11">
+<answer instance="处.11" senseid=""/>
+<context>
+
+东侧内室中的床榻是蒲公起居之<head>处</head>，老年丧妻的蒲公愁肠百结，终坐逝于床上。
+
+</context>
+<postagging>
+<word id="0" pos="f">
+<token>东侧</token>
+</word>
+<word id="1" pos="n">
+<token>内室</token>
+</word>
+<word id="2" pos="f">
+<token>中</token>
+</word>
+<word id="3" pos="u">
+<token>的</token>
+</word>
+<word id="4" pos="n">
+<token>床榻</token>
+</word>
+<word id="5" pos="v">
+<token>是</token>
+</word>
+<word id="6" pos="nr">
+<token>蒲公</token>
+</word>
+<word id="7" pos="v">
+<token>起居</token>
+</word>
+<word id="8" pos="u">
+<token>之</token>
+</word>
+<word id="9" pos="n">
+<token>处</token>
+</word>
+<word id="10" pos="w">
+<token>，</token>
+</word>
+<word id="11" pos="t">
+<token>老年</token>
+</word>
+<word id="12" pos="Vg">
+<token>丧</token>
+</word>
+<word id="13" pos="Ng">
+<token>妻</token>
+</word>
+<word id="14" pos="u">
+<token>的</token>
+</word>
+<word id="15" pos="nr">
+<token>蒲公</token>
+</word>
+<word id="16" pos="i">
+<token>愁肠百结</token>
+</word>
+<word id="17" pos="w">
+<token>，</token>
+</word>
+<word id="18" pos="d">
+<token>终</token>
+</word>
+<word id="19" pos="v">
+<token>坐</token>
+</word>
+<word id="20" pos="Vg">
+<token>逝</token>
+</word>
+<word id="21" pos="p">
+<token>于</token>
+</word>
+<word id="22" pos="n">
+<token>床</token>
+</word>
+<word id="23" pos="f">
+<token>上</token>
+</word>
+<word id="24" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.12">
+<answer instance="处.12" senseid=""/>
+<context>
+
+11时30分开到张家界市区三角坪<head>处</head>，司机停下车说：
+
+</context>
+<postagging>
+<word id="0" pos="t">
+<token>11时</token>
+</word>
+<word id="1" pos="t">
+<token>30分</token>
+</word>
+<word id="2" pos="v">
+<token>开</token>
+</word>
+<word id="3" pos="v">
+<token>到</token>
+</word>
+<word id="4" pos="ns">
+<token>张家界</token>
+</word>
+<word id="5" pos="s">
+<token>市区</token>
+</word>
+<word id="6" pos="ns">
+<token>三角坪</token>
+</word>
+<word id="7" pos="n">
+<token>处</token>
+</word>
+<word id="8" pos="w">
+<token>，</token>
+</word>
+<word id="9" pos="n">
+<token>司机</token>
+</word>
+<word id="10" pos="v">
+<token>停下</token>
+</word>
+<word id="11" pos="n">
+<token>车</token>
+</word>
+<word id="12" pos="v">
+<token>说</token>
+</word>
+<word id="13" pos="w">
+<token>：</token>
+</word>
+</postagging></instance>
+
+<instance id="处.13">
+<answer instance="处.13" senseid=""/>
+<context>
+
+他们凭主场和身高马大之势开哨就压着士气不高的广东队打了半小时，9分钟时主队经两脚长传，首回合头球建功的谢利又在门前无人盯防<head>处</head>冲顶成功。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>他们</token>
+</word>
+<word id="1" pos="p">
+<token>凭</token>
+</word>
+<word id="2" pos="n">
+<token>主场</token>
+</word>
+<word id="3" pos="c">
+<token>和</token>
+</word>
+<word id="4" pos="l">
+<token>身高马大</token>
+</word>
+<word id="5" pos="u">
+<token>之</token>
+</word>
+<word id="6" pos="Ng">
+<token>势</token>
+</word>
+<word id="7" pos="v">
+<token>开</token>
+</word>
+<word id="8" pos="Ng">
+<token>哨</token>
+</word>
+<word id="9" pos="d">
+<token>就</token>
+</word>
+<word id="10" pos="v">
+<token>压</token>
+</word>
+<word id="11" pos="u">
+<token>着</token>
+</word>
+<word id="12" pos="n">
+<token>士气</token>
+</word>
+<word id="13" pos="d">
+<token>不</token>
+</word>
+<word id="14" pos="a">
+<token>高</token>
+</word>
+<word id="15" pos="u">
+<token>的</token>
+</word>
+<word id="16" pos="nt">
+<token>广东队</token>
+</word>
+<word id="17" pos="v">
+<token>打</token>
+</word>
+<word id="18" pos="u">
+<token>了</token>
+</word>
+<word id="19" pos="m">
+<token>半</token>
+</word>
+<word id="20" pos="n">
+<token>小时</token>
+</word>
+<word id="21" pos="w">
+<token>，</token>
+</word>
+<word id="22" pos="m">
+<token>9</token>
+</word>
+<word id="23" pos="q">
+<token>分钟</token>
+</word>
+<word id="24" pos="Ng">
+<token>时</token>
+</word>
+<word id="25" pos="n">
+<token>主队</token>
+</word>
+<word id="26" pos="v">
+<token>经</token>
+</word>
+<word id="27" pos="m">
+<token>两</token>
+</word>
+<word id="28" pos="q">
+<token>脚</token>
+</word>
+<word id="29" pos="v">
+<token>长传</token>
+</word>
+<word id="30" pos="w">
+<token>，</token>
+</word>
+<word id="31" pos="m">
+<token>首</token>
+</word>
+<word id="32" pos="n">
+<token>回合</token>
+</word>
+<word id="33" pos="n">
+<token>头球</token>
+</word>
+<word id="34" pos="v">
+<token>建功</token>
+</word>
+<word id="35" pos="u">
+<token>的</token>
+</word>
+<word id="36" pos="nr">
+<token>谢</token>
+</word>
+<word id="37" pos="nr">
+<token>利</token>
+</word>
+<word id="38" pos="d">
+<token>又</token>
+</word>
+<word id="39" pos="p">
+<token>在</token>
+</word>
+<word id="40" pos="s">
+<token>门前</token>
+</word>
+<word id="41" pos="b">
+<token>无人</token>
+</word>
+<word id="42" pos="v">
+<token>盯防</token>
+</word>
+<word id="43" pos="n">
+<token>处</token>
+</word>
+<word id="44" pos="v">
+<token>冲顶</token>
+</word>
+<word id="45" pos="a">
+<token>成功</token>
+</word>
+<word id="46" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.14">
+<answer instance="处.14" senseid=""/>
+<context>
+
+郭幸初老人拄着拐杖，站在田埂上，指着不远<head>处</head>的一片稻田对记者说：
+
+</context>
+<postagging>
+<word id="0" pos="nr">
+<token>郭</token>
+</word>
+<word id="1" pos="nr">
+<token>幸初</token>
+</word>
+<word id="2" pos="n">
+<token>老人</token>
+</word>
+<word id="3" pos="v">
+<token>拄</token>
+</word>
+<word id="4" pos="u">
+<token>着</token>
+</word>
+<word id="5" pos="n">
+<token>拐杖</token>
+</word>
+<word id="6" pos="w">
+<token>，</token>
+</word>
+<word id="7" pos="v">
+<token>站</token>
+</word>
+<word id="8" pos="p">
+<token>在</token>
+</word>
+<word id="9" pos="n">
+<token>田埂</token>
+</word>
+<word id="10" pos="f">
+<token>上</token>
+</word>
+<word id="11" pos="w">
+<token>，</token>
+</word>
+<word id="12" pos="v">
+<token>指</token>
+</word>
+<word id="13" pos="u">
+<token>着</token>
+</word>
+<word id="14" pos="d">
+<token>不</token>
+</word>
+<word id="15" pos="a">
+<token>远</token>
+</word>
+<word id="16" pos="n">
+<token>处</token>
+</word>
+<word id="17" pos="u">
+<token>的</token>
+</word>
+<word id="18" pos="m">
+<token>一</token>
+</word>
+<word id="19" pos="q">
+<token>片</token>
+</word>
+<word id="20" pos="n">
+<token>稻田</token>
+</word>
+<word id="21" pos="p">
+<token>对</token>
+</word>
+<word id="22" pos="n">
+<token>记者</token>
+</word>
+<word id="23" pos="v">
+<token>说</token>
+</word>
+<word id="24" pos="w">
+<token>：</token>
+</word>
+</postagging></instance>
+
+<instance id="处.15">
+<answer instance="处.15" senseid=""/>
+<context>
+
+说起来真巧，黄固寺是河南省新密市的一个小村，地处黄河南岸，传说中是中华人文始祖轩辕的立都之<head>处</head>。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>说</token>
+</word>
+<word id="1" pos="v">
+<token>起来</token>
+</word>
+<word id="2" pos="d">
+<token>真</token>
+</word>
+<word id="3" pos="a">
+<token>巧</token>
+</word>
+<word id="4" pos="w">
+<token>，</token>
+</word>
+<word id="5" pos="ns">
+<token>黄固寺</token>
+</word>
+<word id="6" pos="v">
+<token>是</token>
+</word>
+<word id="7" pos="ns">
+<token>河南省</token>
+</word>
+<word id="8" pos="ns">
+<token>新密市</token>
+</word>
+<word id="9" pos="u">
+<token>的</token>
+</word>
+<word id="10" pos="m">
+<token>一个</token>
+</word>
+<word id="11" pos="a">
+<token>小</token>
+</word>
+<word id="12" pos="n">
+<token>村</token>
+</word>
+<word id="13" pos="w">
+<token>，</token>
+</word>
+<word id="14" pos="v">
+<token>地处</token>
+</word>
+<word id="15" pos="ns">
+<token>黄河</token>
+</word>
+<word id="16" pos="s">
+<token>南岸</token>
+</word>
+<word id="17" pos="w">
+<token>，</token>
+</word>
+<word id="18" pos="n">
+<token>传说</token>
+</word>
+<word id="19" pos="f">
+<token>中</token>
+</word>
+<word id="20" pos="v">
+<token>是</token>
+</word>
+<word id="21" pos="nz">
+<token>中华</token>
+</word>
+<word id="22" pos="n">
+<token>人文</token>
+</word>
+<word id="23" pos="n">
+<token>始祖</token>
+</word>
+<word id="24" pos="nr">
+<token>轩辕</token>
+</word>
+<word id="25" pos="u">
+<token>的</token>
+</word>
+<word id="26" pos="v">
+<token>立</token>
+</word>
+<word id="27" pos="Ng">
+<token>都</token>
+</word>
+<word id="28" pos="u">
+<token>之</token>
+</word>
+<word id="29" pos="n">
+<token>处</token>
+</word>
+<word id="30" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.16">
+<answer instance="处.16" senseid=""/>
+<context>
+
+当地时间4日下午，一列从挪威西海岸城市特隆赫姆驶往东部城市哈马尔的快车与另一列客车在哈马尔东北约50公里<head>处</head>相撞，造成19人死亡、30多人受伤。
+
+</context>
+<postagging>
+<word id="0" pos="s">
+<token>当地</token>
+</word>
+<word id="1" pos="n">
+<token>时间</token>
+</word>
+<word id="2" pos="m">
+<token>4</token>
+</word>
+<word id="3" pos="q">
+<token>日</token>
+</word>
+<word id="4" pos="t">
+<token>下午</token>
+</word>
+<word id="5" pos="w">
+<token>，</token>
+</word>
+<word id="6" pos="m">
+<token>一</token>
+</word>
+<word id="7" pos="q">
+<token>列</token>
+</word>
+<word id="8" pos="p">
+<token>从</token>
+</word>
+<word id="9" pos="ns">
+<token>挪威</token>
+</word>
+<word id="10" pos="s">
+<token>西海岸</token>
+</word>
+<word id="11" pos="n">
+<token>城市</token>
+</word>
+<word id="12" pos="ns">
+<token>特隆赫姆</token>
+</word>
+<word id="13" pos="v">
+<token>驶往</token>
+</word>
+<word id="14" pos="f">
+<token>东部</token>
+</word>
+<word id="15" pos="n">
+<token>城市</token>
+</word>
+<word id="16" pos="ns">
+<token>哈马尔</token>
+</word>
+<word id="17" pos="u">
+<token>的</token>
+</word>
+<word id="18" pos="n">
+<token>快车</token>
+</word>
+<word id="19" pos="p">
+<token>与</token>
+</word>
+<word id="20" pos="r">
+<token>另</token>
+</word>
+<word id="21" pos="m">
+<token>一</token>
+</word>
+<word id="22" pos="q">
+<token>列</token>
+</word>
+<word id="23" pos="n">
+<token>客车</token>
+</word>
+<word id="24" pos="p">
+<token>在</token>
+</word>
+<word id="25" pos="ns">
+<token>哈马尔</token>
+</word>
+<word id="26" pos="f">
+<token>东北</token>
+</word>
+<word id="27" pos="d">
+<token>约</token>
+</word>
+<word id="28" pos="m">
+<token>50</token>
+</word>
+<word id="29" pos="q">
+<token>公里</token>
+</word>
+<word id="30" pos="n">
+<token>处</token>
+</word>
+<word id="31" pos="v">
+<token>相撞</token>
+</word>
+<word id="32" pos="w">
+<token>，</token>
+</word>
+<word id="33" pos="v">
+<token>造成</token>
+</word>
+<word id="34" pos="m">
+<token>19</token>
+</word>
+<word id="35" pos="n">
+<token>人</token>
+</word>
+<word id="36" pos="v">
+<token>死亡</token>
+</word>
+<word id="37" pos="w">
+<token>、</token>
+</word>
+<word id="38" pos="m">
+<token>30</token>
+</word>
+<word id="39" pos="m">
+<token>多</token>
+</word>
+<word id="40" pos="n">
+<token>人</token>
+</word>
+<word id="41" pos="v">
+<token>受伤</token>
+</word>
+<word id="42" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.17">
+<answer instance="处.17" senseid=""/>
+<context>
+
+“一班人”采取向上级申请、自己筹措资金等办法集资数千万元新建军营设施，终于盖起了8栋营房、527间车库，机关、各营连的官兵从此告别了潮湿的小土屋，搬进了崭新、宽敞、明亮的新营房，所有的车辆也有了“安身”之<head>处</head>；改善官兵生活，副团长张瑞根带领官兵发扬自力更生的南泥湾精神，建起了温室种植蔬菜，同时发动官兵就地取材，养牛、养羊、养猪，使部队所属单位全部实现夏菜自给、冬有鲜菜、四季有肉、吃饱吃好的目标；修建了战士乐园、俱乐部、电影院、图书阅览室等文化活动场所，较好地丰富了官兵的物质文化生活，创造了拴心留人的工作生活环境。
+
+</context>
+<postagging>
+<word id="0" pos="w">
+<token>“</token>
+</word>
+<word id="1" pos="l">
+<token>一班人</token>
+</word>
+<word id="2" pos="w">
+<token>”</token>
+</word>
+<word id="3" pos="v">
+<token>采取</token>
+</word>
+<word id="4" pos="p">
+<token>向</token>
+</word>
+<word id="5" pos="n">
+<token>上级</token>
+</word>
+<word id="6" pos="v">
+<token>申请</token>
+</word>
+<word id="7" pos="w">
+<token>、</token>
+</word>
+<word id="8" pos="r">
+<token>自己</token>
+</word>
+<word id="9" pos="v">
+<token>筹措</token>
+</word>
+<word id="10" pos="n">
+<token>资金</token>
+</word>
+<word id="11" pos="u">
+<token>等</token>
+</word>
+<word id="12" pos="n">
+<token>办法</token>
+</word>
+<word id="13" pos="v">
+<token>集资</token>
+</word>
+<word id="14" pos="m">
+<token>数千万</token>
+</word>
+<word id="15" pos="q">
+<token>元</token>
+</word>
+<word id="16" pos="v">
+<token>新建</token>
+</word>
+<word id="17" pos="n">
+<token>军营</token>
+</word>
+<word id="18" pos="n">
+<token>设施</token>
+</word>
+<word id="19" pos="w">
+<token>，</token>
+</word>
+<word id="20" pos="d">
+<token>终于</token>
+</word>
+<word id="21" pos="v">
+<token>盖</token>
+</word>
+<word id="22" pos="v">
+<token>起</token>
+</word>
+<word id="23" pos="u">
+<token>了</token>
+</word>
+<word id="24" pos="m">
+<token>8</token>
+</word>
+<word id="25" pos="q">
+<token>栋</token>
+</word>
+<word id="26" pos="n">
+<token>营房</token>
+</word>
+<word id="27" pos="w">
+<token>、</token>
+</word>
+<word id="28" pos="m">
+<token>527</token>
+</word>
+<word id="29" pos="q">
+<token>间</token>
+</word>
+<word id="30" pos="n">
+<token>车库</token>
+</word>
+<word id="31" pos="w">
+<token>，</token>
+</word>
+<word id="32" pos="n">
+<token>机关</token>
+</word>
+<word id="33" pos="w">
+<token>、</token>
+</word>
+<word id="34" pos="r">
+<token>各</token>
+</word>
+<word id="35" pos="n">
+<token>营</token>
+</word>
+<word id="36" pos="n">
+<token>连</token>
+</word>
+<word id="37" pos="u">
+<token>的</token>
+</word>
+<word id="38" pos="n">
+<token>官兵</token>
+</word>
+<word id="39" pos="d">
+<token>从此</token>
+</word>
+<word id="40" pos="v">
+<token>告别</token>
+</word>
+<word id="41" pos="u">
+<token>了</token>
+</word>
+<word id="42" pos="a">
+<token>潮湿</token>
+</word>
+<word id="43" pos="u">
+<token>的</token>
+</word>
+<word id="44" pos="a">
+<token>小</token>
+</word>
+<word id="45" pos="n">
+<token>土屋</token>
+</word>
+<word id="46" pos="w">
+<token>，</token>
+</word>
+<word id="47" pos="v">
+<token>搬进</token>
+</word>
+<word id="48" pos="u">
+<token>了</token>
+</word>
+<word id="49" pos="b">
+<token>崭新</token>
+</word>
+<word id="50" pos="w">
+<token>、</token>
+</word>
+<word id="51" pos="a">
+<token>宽敞</token>
+</word>
+<word id="52" pos="w">
+<token>、</token>
+</word>
+<word id="53" pos="a">
+<token>明亮</token>
+</word>
+<word id="54" pos="u">
+<token>的</token>
+</word>
+<word id="55" pos="a">
+<token>新</token>
+</word>
+<word id="56" pos="n">
+<token>营房</token>
+</word>
+<word id="57" pos="w">
+<token>，</token>
+</word>
+<word id="58" pos="b">
+<token>所有</token>
+</word>
+<word id="59" pos="u">
+<token>的</token>
+</word>
+<word id="60" pos="n">
+<token>车辆</token>
+</word>
+<word id="61" pos="d">
+<token>也</token>
+</word>
+<word id="62" pos="v">
+<token>有</token>
+</word>
+<word id="63" pos="u">
+<token>了</token>
+</word>
+<word id="64" pos="w">
+<token>“</token>
+</word>
+<word id="65" pos="v">
+<token>安身</token>
+</word>
+<word id="66" pos="w">
+<token>”</token>
+</word>
+<word id="67" pos="u">
+<token>之</token>
+</word>
+<word id="68" pos="n">
+<token>处</token>
+</word>
+<word id="69" pos="w">
+<token>；</token>
+</word>
+<word id="70" pos="v">
+<token>改善</token>
+</word>
+<word id="71" pos="n">
+<token>官兵</token>
+</word>
+<word id="72" pos="vn">
+<token>生活</token>
+</word>
+<word id="73" pos="w">
+<token>，</token>
+</word>
+<word id="74" pos="b">
+<token>副</token>
+</word>
+<word id="75" pos="n">
+<token>团长</token>
+</word>
+<word id="76" pos="nr">
+<token>张</token>
+</word>
+<word id="77" pos="nr">
+<token>瑞根</token>
+</word>
+<word id="78" pos="v">
+<token>带领</token>
+</word>
+<word id="79" pos="n">
+<token>官兵</token>
+</word>
+<word id="80" pos="v">
+<token>发扬</token>
+</word>
+<word id="81" pos="i">
+<token>自力更生</token>
+</word>
+<word id="82" pos="u">
+<token>的</token>
+</word>
+<word id="83" pos="ns">
+<token>南泥湾</token>
+</word>
+<word id="84" pos="n">
+<token>精神</token>
+</word>
+<word id="85" pos="w">
+<token>，</token>
+</word>
+<word id="86" pos="v">
+<token>建</token>
+</word>
+<word id="87" pos="v">
+<token>起</token>
+</word>
+<word id="88" pos="u">
+<token>了</token>
+</word>
+<word id="89" pos="n">
+<token>温室</token>
+</word>
+<word id="90" pos="v">
+<token>种植</token>
+</word>
+<word id="91" pos="n">
+<token>蔬菜</token>
+</word>
+<word id="92" pos="w">
+<token>，</token>
+</word>
+<word id="93" pos="c">
+<token>同时</token>
+</word>
+<word id="94" pos="v">
+<token>发动</token>
+</word>
+<word id="95" pos="n">
+<token>官兵</token>
+</word>
+<word id="96" pos="i">
+<token>就地取材</token>
+</word>
+<word id="97" pos="w">
+<token>，</token>
+</word>
+<word id="98" pos="v">
+<token>养牛</token>
+</word>
+<word id="99" pos="w">
+<token>、</token>
+</word>
+<word id="100" pos="v">
+<token>养</token>
+</word>
+<word id="101" pos="n">
+<token>羊</token>
+</word>
+<word id="102" pos="w">
+<token>、</token>
+</word>
+<word id="103" pos="v">
+<token>养猪</token>
+</word>
+<word id="104" pos="w">
+<token>，</token>
+</word>
+<word id="105" pos="v">
+<token>使</token>
+</word>
+<word id="106" pos="n">
+<token>部队</token>
+</word>
+<word id="107" pos="n">
+<token>所属</token>
+</word>
+<word id="108" pos="n">
+<token>单位</token>
+</word>
+<word id="109" pos="m">
+<token>全部</token>
+</word>
+<word id="110" pos="v">
+<token>实现</token>
+</word>
+<word id="111" pos="Tg">
+<token>夏</token>
+</word>
+<word id="112" pos="n">
+<token>菜</token>
+</word>
+<word id="113" pos="v">
+<token>自给</token>
+</word>
+<word id="114" pos="w">
+<token>、</token>
+</word>
+<word id="115" pos="Tg">
+<token>冬</token>
+</word>
+<word id="116" pos="v">
+<token>有</token>
+</word>
+<word id="117" pos="n">
+<token>鲜菜</token>
+</word>
+<word id="118" pos="w">
+<token>、</token>
+</word>
+<word id="119" pos="n">
+<token>四季</token>
+</word>
+<word id="120" pos="v">
+<token>有</token>
+</word>
+<word id="121" pos="n">
+<token>肉</token>
+</word>
+<word id="122" pos="w">
+<token>、</token>
+</word>
+<word id="123" pos="v">
+<token>吃</token>
+</word>
+<word id="124" pos="a">
+<token>饱</token>
+</word>
+<word id="125" pos="v">
+<token>吃</token>
+</word>
+<word id="126" pos="a">
+<token>好</token>
+</word>
+<word id="127" pos="u">
+<token>的</token>
+</word>
+<word id="128" pos="n">
+<token>目标</token>
+</word>
+<word id="129" pos="w">
+<token>；</token>
+</word>
+<word id="130" pos="v">
+<token>修建</token>
+</word>
+<word id="131" pos="u">
+<token>了</token>
+</word>
+<word id="132" pos="n">
+<token>战士</token>
+</word>
+<word id="133" pos="n">
+<token>乐园</token>
+</word>
+<word id="134" pos="w">
+<token>、</token>
+</word>
+<word id="135" pos="n">
+<token>俱乐部</token>
+</word>
+<word id="136" pos="w">
+<token>、</token>
+</word>
+<word id="137" pos="n">
+<token>电影院</token>
+</word>
+<word id="138" pos="w">
+<token>、</token>
+</word>
+<word id="139" pos="n">
+<token>图书</token>
+</word>
+<word id="140" pos="n">
+<token>阅览室</token>
+</word>
+<word id="141" pos="u">
+<token>等</token>
+</word>
+<word id="142" pos="n">
+<token>文化</token>
+</word>
+<word id="143" pos="vn">
+<token>活动</token>
+</word>
+<word id="144" pos="n">
+<token>场所</token>
+</word>
+<word id="145" pos="w">
+<token>，</token>
+</word>
+<word id="146" pos="d">
+<token>较</token>
+</word>
+<word id="147" pos="a">
+<token>好</token>
+</word>
+<word id="148" pos="u">
+<token>地</token>
+</word>
+<word id="149" pos="v">
+<token>丰富</token>
+</word>
+<word id="150" pos="u">
+<token>了</token>
+</word>
+<word id="151" pos="n">
+<token>官兵</token>
+</word>
+<word id="152" pos="u">
+<token>的</token>
+</word>
+<word id="153" pos="n">
+<token>物质</token>
+</word>
+<word id="154" pos="n">
+<token>文化</token>
+</word>
+<word id="155" pos="vn">
+<token>生活</token>
+</word>
+<word id="156" pos="w">
+<token>，</token>
+</word>
+<word id="157" pos="v">
+<token>创造</token>
+</word>
+<word id="158" pos="u">
+<token>了</token>
+</word>
+<word id="159" pos="v">
+<token>拴心</token>
+</word>
+<word id="160" pos="v">
+<token>留</token>
+</word>
+<word id="161" pos="n">
+<token>人</token>
+</word>
+<word id="162" pos="u">
+<token>的</token>
+</word>
+<word id="163" pos="vn">
+<token>工作</token>
+</word>
+<word id="164" pos="vn">
+<token>生活</token>
+</word>
+<word id="165" pos="n">
+<token>环境</token>
+</word>
+<word id="166" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.18">
+<answer instance="处.18" senseid=""/>
+<context>
+
+据报道，新方法需向受伤<head>处</head>喷洒细小的聚合物纤维。
+
+</context>
+<postagging>
+<word id="0" pos="p">
+<token>据</token>
+</word>
+<word id="1" pos="v">
+<token>报道</token>
+</word>
+<word id="2" pos="w">
+<token>，</token>
+</word>
+<word id="3" pos="a">
+<token>新</token>
+</word>
+<word id="4" pos="n">
+<token>方法</token>
+</word>
+<word id="5" pos="v">
+<token>需</token>
+</word>
+<word id="6" pos="p">
+<token>向</token>
+</word>
+<word id="7" pos="vn">
+<token>受伤</token>
+</word>
+<word id="8" pos="n">
+<token>处</token>
+</word>
+<word id="9" pos="v">
+<token>喷洒</token>
+</word>
+<word id="10" pos="a">
+<token>细小</token>
+</word>
+<word id="11" pos="u">
+<token>的</token>
+</word>
+<word id="12" pos="n">
+<token>聚合物</token>
+</word>
+<word id="13" pos="n">
+<token>纤维</token>
+</word>
+<word id="14" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.19">
+<answer instance="处.19" senseid=""/>
+<context>
+
+在河南新郑市（县级市）某厂一家属楼（砖混，6层，新郑市第五建筑公司施工）工地，检查组发现二楼转角<head>处</head>砌砖搭接方法严重违规（留直搓），砖体墙外观质量差；混凝土养护也较差。
+
+</context>
+<postagging>
+<word id="0" pos="p">
+<token>在</token>
+</word>
+<word id="1" pos="ns">
+<token>河南</token>
+</word>
+<word id="2" pos="ns">
+<token>新郑市</token>
+</word>
+<word id="3" pos="w">
+<token>（</token>
+</word>
+<word id="4" pos="n">
+<token>县级市</token>
+</word>
+<word id="5" pos="w">
+<token>）</token>
+</word>
+<word id="6" pos="r">
+<token>某</token>
+</word>
+<word id="7" pos="n">
+<token>厂</token>
+</word>
+<word id="8" pos="m">
+<token>一</token>
+</word>
+<word id="9" pos="n">
+<token>家属</token>
+</word>
+<word id="10" pos="n">
+<token>楼</token>
+</word>
+<word id="11" pos="w">
+<token>（</token>
+</word>
+<word id="12" pos="b">
+<token>砖混</token>
+</word>
+<word id="13" pos="w">
+<token>，</token>
+</word>
+<word id="14" pos="m">
+<token>6</token>
+</word>
+<word id="15" pos="q">
+<token>层</token>
+</word>
+<word id="16" pos="w">
+<token>，</token>
+</word>
+<word id="17" pos="nt">
+<token>
+新郑市第五建筑公司
+</token>
+<subword id="0" pos="ns">
+<token>新郑市</token>
+</subword>
+<subword id="1" pos="m">
+<token>第五</token>
+</subword>
+<subword id="2" pos="vn">
+<token>建筑</token>
+</subword>
+<subword id="3" pos="n">
+<token>公司</token>
+</subword>
+</word>
+<word id="18" pos="v">
+<token>施工</token>
+</word>
+<word id="19" pos="w">
+<token>）</token>
+</word>
+<word id="20" pos="n">
+<token>工地</token>
+</word>
+<word id="21" pos="w">
+<token>，</token>
+</word>
+<word id="22" pos="vn">
+<token>检查</token>
+</word>
+<word id="23" pos="n">
+<token>组</token>
+</word>
+<word id="24" pos="v">
+<token>发现</token>
+</word>
+<word id="25" pos="m">
+<token>二</token>
+</word>
+<word id="26" pos="n">
+<token>楼</token>
+</word>
+<word id="27" pos="n">
+<token>转角</token>
+</word>
+<word id="28" pos="n">
+<token>处</token>
+</word>
+<word id="29" pos="v">
+<token>砌砖</token>
+</word>
+<word id="30" pos="v">
+<token>搭</token>
+</word>
+<word id="31" pos="v">
+<token>接</token>
+</word>
+<word id="32" pos="n">
+<token>方法</token>
+</word>
+<word id="33" pos="ad">
+<token>严重</token>
+</word>
+<word id="34" pos="v">
+<token>违规</token>
+</word>
+<word id="35" pos="w">
+<token>（</token>
+</word>
+<word id="36" pos="v">
+<token>留</token>
+</word>
+<word id="37" pos="a">
+<token>直</token>
+</word>
+<word id="38" pos="v">
+<token>搓</token>
+</word>
+<word id="39" pos="w">
+<token>）</token>
+</word>
+<word id="40" pos="w">
+<token>，</token>
+</word>
+<word id="41" pos="n">
+<token>砖体</token>
+</word>
+<word id="42" pos="n">
+<token>墙</token>
+</word>
+<word id="43" pos="n">
+<token>外观</token>
+</word>
+<word id="44" pos="n">
+<token>质量</token>
+</word>
+<word id="45" pos="a">
+<token>差</token>
+</word>
+<word id="46" pos="w">
+<token>；</token>
+</word>
+<word id="47" pos="n">
+<token>混凝土</token>
+</word>
+<word id="48" pos="vn">
+<token>养护</token>
+</word>
+<word id="49" pos="d">
+<token>也</token>
+</word>
+<word id="50" pos="d">
+<token>较</token>
+</word>
+<word id="51" pos="a">
+<token>差</token>
+</word>
+<word id="52" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.20">
+<answer instance="处.20" senseid=""/>
+<context>
+
+负责“伽利略”号上磁场度量器的博士也说，航天器在EUROPA上空350公里<head>处</head>掠过时，那台磁场度量器随EUROPA的磁场方向出现了转动。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>负责</token>
+</word>
+<word id="1" pos="w">
+<token>“</token>
+</word>
+<word id="2" pos="nz">
+<token>伽利略</token>
+</word>
+<word id="3" pos="w">
+<token>”</token>
+</word>
+<word id="4" pos="n">
+<token>号</token>
+</word>
+<word id="5" pos="f">
+<token>上</token>
+</word>
+<word id="6" pos="n">
+<token>磁场</token>
+</word>
+<word id="7" pos="n">
+<token>度量器</token>
+</word>
+<word id="8" pos="u">
+<token>的</token>
+</word>
+<word id="9" pos="n">
+<token>博士</token>
+</word>
+<word id="10" pos="d">
+<token>也</token>
+</word>
+<word id="11" pos="v">
+<token>说</token>
+</word>
+<word id="12" pos="w">
+<token>，</token>
+</word>
+<word id="13" pos="n">
+<token>航天器</token>
+</word>
+<word id="14" pos="p">
+<token>在</token>
+</word>
+<word id="15" pos="nx">
+<token>EUROPA</token>
+</word>
+<word id="16" pos="s">
+<token>上空</token>
+</word>
+<word id="17" pos="m">
+<token>350</token>
+</word>
+<word id="18" pos="q">
+<token>公里</token>
+</word>
+<word id="19" pos="n">
+<token>处</token>
+</word>
+<word id="20" pos="v">
+<token>掠</token>
+</word>
+<word id="21" pos="u">
+<token>过</token>
+</word>
+<word id="22" pos="Ng">
+<token>时</token>
+</word>
+<word id="23" pos="w">
+<token>，</token>
+</word>
+<word id="24" pos="r">
+<token>那</token>
+</word>
+<word id="25" pos="q">
+<token>台</token>
+</word>
+<word id="26" pos="n">
+<token>磁场</token>
+</word>
+<word id="27" pos="n">
+<token>度量器</token>
+</word>
+<word id="28" pos="p">
+<token>随</token>
+</word>
+<word id="29" pos="nx">
+<token>EUROPA</token>
+</word>
+<word id="30" pos="u">
+<token>的</token>
+</word>
+<word id="31" pos="n">
+<token>磁场</token>
+</word>
+<word id="32" pos="n">
+<token>方向</token>
+</word>
+<word id="33" pos="v">
+<token>出现</token>
+</word>
+<word id="34" pos="u">
+<token>了</token>
+</word>
+<word id="35" pos="v">
+<token>转动</token>
+</word>
+<word id="36" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.21">
+<answer instance="处.21" senseid=""/>
+<context>
+
+因此<head>处</head>党委决定，在全处实行“一站一警”勤务制度改革，以一个车站为中心，建立公安值班室，按辐射的铁路线划定警务区，一个警务区设一名民警，并制定了相应的规章制度和考核措施，目标明确，责任到人。
+
+</context>
+<postagging>
+<word id="0" pos="c">
+<token>因此</token>
+</word>
+<word id="1" pos="n">
+<token>处</token>
+</word>
+<word id="2" pos="n">
+<token>党委</token>
+</word>
+<word id="3" pos="v">
+<token>决定</token>
+</word>
+<word id="4" pos="w">
+<token>，</token>
+</word>
+<word id="5" pos="p">
+<token>在</token>
+</word>
+<word id="6" pos="n">
+<token>全处</token>
+</word>
+<word id="7" pos="v">
+<token>实行</token>
+</word>
+<word id="8" pos="w">
+<token>“</token>
+</word>
+<word id="9" pos="m">
+<token>一</token>
+</word>
+<word id="10" pos="n">
+<token>站</token>
+</word>
+<word id="11" pos="m">
+<token>一</token>
+</word>
+<word id="12" pos="Ng">
+<token>警</token>
+</word>
+<word id="13" pos="w">
+<token>”</token>
+</word>
+<word id="14" pos="n">
+<token>勤务</token>
+</word>
+<word id="15" pos="n">
+<token>制度</token>
+</word>
+<word id="16" pos="vn">
+<token>改革</token>
+</word>
+<word id="17" pos="w">
+<token>，</token>
+</word>
+<word id="18" pos="p">
+<token>以</token>
+</word>
+<word id="19" pos="m">
+<token>一个</token>
+</word>
+<word id="20" pos="n">
+<token>车站</token>
+</word>
+<word id="21" pos="v">
+<token>为</token>
+</word>
+<word id="22" pos="n">
+<token>中心</token>
+</word>
+<word id="23" pos="w">
+<token>，</token>
+</word>
+<word id="24" pos="v">
+<token>建立</token>
+</word>
+<word id="25" pos="n">
+<token>公安</token>
+</word>
+<word id="26" pos="n">
+<token>值班室</token>
+</word>
+<word id="27" pos="w">
+<token>，</token>
+</word>
+<word id="28" pos="p">
+<token>按</token>
+</word>
+<word id="29" pos="v">
+<token>辐射</token>
+</word>
+<word id="30" pos="u">
+<token>的</token>
+</word>
+<word id="31" pos="n">
+<token>铁</token>
+</word>
+<word id="32" pos="n">
+<token>路线</token>
+</word>
+<word id="33" pos="v">
+<token>划定</token>
+</word>
+<word id="34" pos="n">
+<token>警务区</token>
+</word>
+<word id="35" pos="w">
+<token>，</token>
+</word>
+<word id="36" pos="m">
+<token>一个</token>
+</word>
+<word id="37" pos="n">
+<token>警务区</token>
+</word>
+<word id="38" pos="v">
+<token>设</token>
+</word>
+<word id="39" pos="m">
+<token>一</token>
+</word>
+<word id="40" pos="q">
+<token>名</token>
+</word>
+<word id="41" pos="n">
+<token>民警</token>
+</word>
+<word id="42" pos="w">
+<token>，</token>
+</word>
+<word id="43" pos="c">
+<token>并</token>
+</word>
+<word id="44" pos="v">
+<token>制定</token>
+</word>
+<word id="45" pos="u">
+<token>了</token>
+</word>
+<word id="46" pos="v">
+<token>相应</token>
+</word>
+<word id="47" pos="u">
+<token>的</token>
+</word>
+<word id="48" pos="l">
+<token>规章制度</token>
+</word>
+<word id="49" pos="c">
+<token>和</token>
+</word>
+<word id="50" pos="vn">
+<token>考核</token>
+</word>
+<word id="51" pos="n">
+<token>措施</token>
+</word>
+<word id="52" pos="w">
+<token>，</token>
+</word>
+<word id="53" pos="n">
+<token>目标</token>
+</word>
+<word id="54" pos="a">
+<token>明确</token>
+</word>
+<word id="55" pos="w">
+<token>，</token>
+</word>
+<word id="56" pos="n">
+<token>责任</token>
+</word>
+<word id="57" pos="v">
+<token>到</token>
+</word>
+<word id="58" pos="n">
+<token>人</token>
+</word>
+<word id="59" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.22">
+<answer instance="处.22" senseid=""/>
+<context>
+
+实行“一站一警”勤务制度改革一年多来，这个<head>处</head>辖区内的刑事案件和治安案件发案率与上年同期相比分别下降了64％和57％，而刑事案件的破案率和治安案件的查清率则分别达到了94％和100％。
+
+</context>
+<postagging>
+<word id="0" pos="v">
+<token>实行</token>
+</word>
+<word id="1" pos="w">
+<token>“</token>
+</word>
+<word id="2" pos="m">
+<token>一</token>
+</word>
+<word id="3" pos="n">
+<token>站</token>
+</word>
+<word id="4" pos="m">
+<token>一</token>
+</word>
+<word id="5" pos="Ng">
+<token>警</token>
+</word>
+<word id="6" pos="w">
+<token>”</token>
+</word>
+<word id="7" pos="n">
+<token>勤务</token>
+</word>
+<word id="8" pos="n">
+<token>制度</token>
+</word>
+<word id="9" pos="vn">
+<token>改革</token>
+</word>
+<word id="10" pos="m">
+<token>一</token>
+</word>
+<word id="11" pos="q">
+<token>年</token>
+</word>
+<word id="12" pos="m">
+<token>多</token>
+</word>
+<word id="13" pos="f">
+<token>来</token>
+</word>
+<word id="14" pos="w">
+<token>，</token>
+</word>
+<word id="15" pos="r">
+<token>这个</token>
+</word>
+<word id="16" pos="n">
+<token>处</token>
+</word>
+<word id="17" pos="n">
+<token>辖区</token>
+</word>
+<word id="18" pos="f">
+<token>内</token>
+</word>
+<word id="19" pos="u">
+<token>的</token>
+</word>
+<word id="20" pos="n">
+<token>刑事</token>
+</word>
+<word id="21" pos="n">
+<token>案件</token>
+</word>
+<word id="22" pos="c">
+<token>和</token>
+</word>
+<word id="23" pos="n">
+<token>治安</token>
+</word>
+<word id="24" pos="n">
+<token>案件</token>
+</word>
+<word id="25" pos="n">
+<token>发案率</token>
+</word>
+<word id="26" pos="p">
+<token>与</token>
+</word>
+<word id="27" pos="t">
+<token>上年</token>
+</word>
+<word id="28" pos="d">
+<token>同期</token>
+</word>
+<word id="29" pos="v">
+<token>相比</token>
+</word>
+<word id="30" pos="d">
+<token>分别</token>
+</word>
+<word id="31" pos="v">
+<token>下降</token>
+</word>
+<word id="32" pos="u">
+<token>了</token>
+</word>
+<word id="33" pos="m">
+<token>64％</token>
+</word>
+<word id="34" pos="c">
+<token>和</token>
+</word>
+<word id="35" pos="m">
+<token>57％</token>
+</word>
+<word id="36" pos="w">
+<token>，</token>
+</word>
+<word id="37" pos="c">
+<token>而</token>
+</word>
+<word id="38" pos="n">
+<token>刑事</token>
+</word>
+<word id="39" pos="n">
+<token>案件</token>
+</word>
+<word id="40" pos="u">
+<token>的</token>
+</word>
+<word id="41" pos="n">
+<token>破案率</token>
+</word>
+<word id="42" pos="c">
+<token>和</token>
+</word>
+<word id="43" pos="n">
+<token>治安</token>
+</word>
+<word id="44" pos="n">
+<token>案件</token>
+</word>
+<word id="45" pos="u">
+<token>的</token>
+</word>
+<word id="46" pos="n">
+<token>查清率</token>
+</word>
+<word id="47" pos="d">
+<token>则</token>
+</word>
+<word id="48" pos="d">
+<token>分别</token>
+</word>
+<word id="49" pos="v">
+<token>达到</token>
+</word>
+<word id="50" pos="u">
+<token>了</token>
+</word>
+<word id="51" pos="m">
+<token>94％</token>
+</word>
+<word id="52" pos="c">
+<token>和</token>
+</word>
+<word id="53" pos="m">
+<token>100％</token>
+</word>
+<word id="54" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.23">
+<answer instance="处.23" senseid=""/>
+<context>
+
+海南省教育厅基础教育<head>处</head>负责人接受记者采访时说，省教育厅已在春节前出台了减轻学生负担的规定，并召开紧急会议，要求各校不得给一二年级的学生留家庭作业，不得以是否完成寒假作业作为报到的必要条件。
+
+</context>
+<postagging>
+<word id="0" pos="n">
+<token>
+海南省教育厅基础教育处
+</token>
+<subword id="0" pos="ns">
+<token>海南省</token>
+</subword>
+<subword id="1" pos="vn">
+<token>教育</token>
+</subword>
+<subword id="2" pos="n">
+<token>厅</token>
+</subword>
+<subword id="3" pos="l">
+<token>基础教育</token>
+</subword>
+<subword id="4" pos="n">
+<token>处</token>
+</subword>
+</word>
+<word id="1" pos="n">
+<token>负责人</token>
+</word>
+<word id="2" pos="v">
+<token>接受</token>
+</word>
+<word id="3" pos="n">
+<token>记者</token>
+</word>
+<word id="4" pos="vn">
+<token>采访</token>
+</word>
+<word id="5" pos="Ng">
+<token>时</token>
+</word>
+<word id="6" pos="v">
+<token>说</token>
+</word>
+<word id="7" pos="w">
+<token>，</token>
+</word>
+<word id="8" pos="n">
+<token>省</token>
+</word>
+<word id="9" pos="vn">
+<token>教育</token>
+</word>
+<word id="10" pos="n">
+<token>厅</token>
+</word>
+<word id="11" pos="d">
+<token>已</token>
+</word>
+<word id="12" pos="p">
+<token>在</token>
+</word>
+<word id="13" pos="t">
+<token>春节</token>
+</word>
+<word id="14" pos="f">
+<token>前</token>
+</word>
+<word id="15" pos="v">
+<token>出台</token>
+</word>
+<word id="16" pos="u">
+<token>了</token>
+</word>
+<word id="17" pos="v">
+<token>减轻</token>
+</word>
+<word id="18" pos="n">
+<token>学生</token>
+</word>
+<word id="19" pos="n">
+<token>负担</token>
+</word>
+<word id="20" pos="u">
+<token>的</token>
+</word>
+<word id="21" pos="n">
+<token>规定</token>
+</word>
+<word id="22" pos="w">
+<token>，</token>
+</word>
+<word id="23" pos="c">
+<token>并</token>
+</word>
+<word id="24" pos="v">
+<token>召开</token>
+</word>
+<word id="25" pos="a">
+<token>紧急</token>
+</word>
+<word id="26" pos="n">
+<token>会议</token>
+</word>
+<word id="27" pos="w">
+<token>，</token>
+</word>
+<word id="28" pos="v">
+<token>要求</token>
+</word>
+<word id="29" pos="r">
+<token>各校</token>
+</word>
+<word id="30" pos="v">
+<token>不得</token>
+</word>
+<word id="31" pos="p">
+<token>给</token>
+</word>
+<word id="32" pos="m">
+<token>一二</token>
+</word>
+<word id="33" pos="n">
+<token>年级</token>
+</word>
+<word id="34" pos="u">
+<token>的</token>
+</word>
+<word id="35" pos="n">
+<token>学生</token>
+</word>
+<word id="36" pos="v">
+<token>留</token>
+</word>
+<word id="37" pos="n">
+<token>家庭</token>
+</word>
+<word id="38" pos="n">
+<token>作业</token>
+</word>
+<word id="39" pos="w">
+<token>，</token>
+</word>
+<word id="40" pos="v">
+<token>不得</token>
+</word>
+<word id="41" pos="p">
+<token>以</token>
+</word>
+<word id="42" pos="v">
+<token>是否</token>
+</word>
+<word id="43" pos="v">
+<token>完成</token>
+</word>
+<word id="44" pos="t">
+<token>寒假</token>
+</word>
+<word id="45" pos="n">
+<token>作业</token>
+</word>
+<word id="46" pos="v">
+<token>作为</token>
+</word>
+<word id="47" pos="v">
+<token>报到</token>
+</word>
+<word id="48" pos="u">
+<token>的</token>
+</word>
+<word id="49" pos="l">
+<token>必要条件</token>
+</word>
+<word id="50" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.24">
+<answer instance="处.24" senseid=""/>
+<context>
+
+邮编100088，北京市海淀区蓟门桥西土城路6号，国家知识产权局协调管理司综合协调<head>处</head>；举报电话：
+
+</context>
+<postagging>
+<word id="0" pos="j">
+<token>邮编</token>
+</word>
+<word id="1" pos="m">
+<token>100088</token>
+</word>
+<word id="2" pos="w">
+<token>，</token>
+</word>
+<word id="3" pos="ns">
+<token>北京市</token>
+</word>
+<word id="4" pos="ns">
+<token>海淀区</token>
+</word>
+<word id="5" pos="ns">
+<token>蓟门桥</token>
+</word>
+<word id="6" pos="f">
+<token>西</token>
+</word>
+<word id="7" pos="ns">
+<token>土城路</token>
+</word>
+<word id="8" pos="m">
+<token>6</token>
+</word>
+<word id="9" pos="n">
+<token>号</token>
+</word>
+<word id="10" pos="w">
+<token>，</token>
+</word>
+<word id="11" pos="n">
+<token>
+国家知识产权局协调管理司综合协调处
+</token>
+<subword id="0" pos="n">
+<token>国家</token>
+</subword>
+<subword id="1" pos="n">
+<token>知识产权局</token>
+</subword>
+<subword id="2" pos="vn">
+<token>协调</token>
+</subword>
+<subword id="3" pos="vn">
+<token>管理</token>
+</subword>
+<subword id="4" pos="n">
+<token>司</token>
+</subword>
+<subword id="5" pos="vn">
+<token>综合</token>
+</subword>
+<subword id="6" pos="vn">
+<token>协调</token>
+</subword>
+<subword id="7" pos="n">
+<token>处</token>
+</subword>
+</word>
+<word id="12" pos="w">
+<token>；</token>
+</word>
+<word id="13" pos="vn">
+<token>举报</token>
+</word>
+<word id="14" pos="n">
+<token>电话</token>
+</word>
+<word id="15" pos="w">
+<token>：</token>
+</word>
+</postagging></instance>
+
+<instance id="处.25">
+<answer instance="处.25" senseid=""/>
+<context>
+
+全国各省、自治区、直辖市、新疆生产建设兵团民委分管经济工作的民委主任、经济<head>处</head>处长，计划单列市民委主管经济工作的民委主任，国务院有关部委的负责同志180人出席了会议。
+
+</context>
+<postagging>
+<word id="0" pos="n">
+<token>全国</token>
+</word>
+<word id="1" pos="r">
+<token>各省</token>
+</word>
+<word id="2" pos="w">
+<token>、</token>
+</word>
+<word id="3" pos="n">
+<token>自治区</token>
+</word>
+<word id="4" pos="w">
+<token>、</token>
+</word>
+<word id="5" pos="n">
+<token>直辖市</token>
+</word>
+<word id="6" pos="w">
+<token>、</token>
+</word>
+<word id="7" pos="nt">
+<token>
+新疆生产建设兵团民委
+</token>
+<subword id="0" pos="ns">
+<token>新疆</token>
+</subword>
+<subword id="1" pos="vn">
+<token>生产</token>
+</subword>
+<subword id="2" pos="vn">
+<token>建设</token>
+</subword>
+<subword id="3" pos="n">
+<token>兵团</token>
+</subword>
+<subword id="4" pos="j">
+<token>民委</token>
+</subword>
+</word>
+<word id="8" pos="v">
+<token>分管</token>
+</word>
+<word id="9" pos="n">
+<token>经济</token>
+</word>
+<word id="10" pos="vn">
+<token>工作</token>
+</word>
+<word id="11" pos="u">
+<token>的</token>
+</word>
+<word id="12" pos="j">
+<token>民委</token>
+</word>
+<word id="13" pos="n">
+<token>主任</token>
+</word>
+<word id="14" pos="w">
+<token>、</token>
+</word>
+<word id="15" pos="n">
+<token>经济</token>
+</word>
+<word id="16" pos="n">
+<token>处</token>
+</word>
+<word id="17" pos="n">
+<token>处长</token>
+</word>
+<word id="18" pos="w">
+<token>，</token>
+</word>
+<word id="19" pos="n">
+<token>计划单列市</token>
+</word>
+<word id="20" pos="j">
+<token>民委</token>
+</word>
+<word id="21" pos="v">
+<token>主管</token>
+</word>
+<word id="22" pos="n">
+<token>经济</token>
+</word>
+<word id="23" pos="vn">
+<token>工作</token>
+</word>
+<word id="24" pos="u">
+<token>的</token>
+</word>
+<word id="25" pos="j">
+<token>民委</token>
+</word>
+<word id="26" pos="n">
+<token>主任</token>
+</word>
+<word id="27" pos="w">
+<token>，</token>
+</word>
+<word id="28" pos="nt">
+<token>国务院</token>
+</word>
+<word id="29" pos="vn">
+<token>有关</token>
+</word>
+<word id="30" pos="j">
+<token>部委</token>
+</word>
+<word id="31" pos="u">
+<token>的</token>
+</word>
+<word id="32" pos="vn">
+<token>负责</token>
+</word>
+<word id="33" pos="n">
+<token>同志</token>
+</word>
+<word id="34" pos="m">
+<token>180</token>
+</word>
+<word id="35" pos="n">
+<token>人</token>
+</word>
+<word id="36" pos="v">
+<token>出席</token>
+</word>
+<word id="37" pos="u">
+<token>了</token>
+</word>
+<word id="38" pos="n">
+<token>会议</token>
+</word>
+<word id="39" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.26">
+<answer instance="处.26" senseid=""/>
+<context>
+
+不少单位还结合“回头看”对机关进行了教育整顿，调整和处理了思想作风差、工作不称职、群众不满意的机关部、<head>处</head>领导，使机关干部受到了深刻的教育。
+
+</context>
+<postagging>
+<word id="0" pos="m">
+<token>不少</token>
+</word>
+<word id="1" pos="n">
+<token>单位</token>
+</word>
+<word id="2" pos="d">
+<token>还</token>
+</word>
+<word id="3" pos="v">
+<token>结合</token>
+</word>
+<word id="4" pos="w">
+<token>“</token>
+</word>
+<word id="5" pos="v">
+<token>回头</token>
+</word>
+<word id="6" pos="v">
+<token>看</token>
+</word>
+<word id="7" pos="w">
+<token>”</token>
+</word>
+<word id="8" pos="p">
+<token>对</token>
+</word>
+<word id="9" pos="n">
+<token>机关</token>
+</word>
+<word id="10" pos="v">
+<token>进行</token>
+</word>
+<word id="11" pos="u">
+<token>了</token>
+</word>
+<word id="12" pos="vn">
+<token>教育</token>
+</word>
+<word id="13" pos="vn">
+<token>整顿</token>
+</word>
+<word id="14" pos="w">
+<token>，</token>
+</word>
+<word id="15" pos="v">
+<token>调整</token>
+</word>
+<word id="16" pos="c">
+<token>和</token>
+</word>
+<word id="17" pos="v">
+<token>处理</token>
+</word>
+<word id="18" pos="u">
+<token>了</token>
+</word>
+<word id="19" pos="n">
+<token>思想</token>
+</word>
+<word id="20" pos="n">
+<token>作风</token>
+</word>
+<word id="21" pos="a">
+<token>差</token>
+</word>
+<word id="22" pos="w">
+<token>、</token>
+</word>
+<word id="23" pos="vn">
+<token>工作</token>
+</word>
+<word id="24" pos="d">
+<token>不</token>
+</word>
+<word id="25" pos="a">
+<token>称职</token>
+</word>
+<word id="26" pos="w">
+<token>、</token>
+</word>
+<word id="27" pos="n">
+<token>群众</token>
+</word>
+<word id="28" pos="d">
+<token>不</token>
+</word>
+<word id="29" pos="v">
+<token>满意</token>
+</word>
+<word id="30" pos="u">
+<token>的</token>
+</word>
+<word id="31" pos="n">
+<token>机关部</token>
+</word>
+<word id="32" pos="w">
+<token>、</token>
+</word>
+<word id="33" pos="n">
+<token>处</token>
+</word>
+<word id="34" pos="n">
+<token>领导</token>
+</word>
+<word id="35" pos="w">
+<token>，</token>
+</word>
+<word id="36" pos="v">
+<token>使</token>
+</word>
+<word id="37" pos="n">
+<token>机关</token>
+</word>
+<word id="38" pos="n">
+<token>干部</token>
+</word>
+<word id="39" pos="v">
+<token>受到</token>
+</word>
+<word id="40" pos="u">
+<token>了</token>
+</word>
+<word id="41" pos="a">
+<token>深刻</token>
+</word>
+<word id="42" pos="u">
+<token>的</token>
+</word>
+<word id="43" pos="vn">
+<token>教育</token>
+</word>
+<word id="44" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.27">
+<answer instance="处.27" senseid=""/>
+<context>
+
+该工程由铁道部第十八工程局二<head>处</head>承担施工。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>该</token>
+</word>
+<word id="1" pos="n">
+<token>工程</token>
+</word>
+<word id="2" pos="p">
+<token>由</token>
+</word>
+<word id="3" pos="n">
+<token>
+铁道部第十八工程局二处
+</token>
+<subword id="0" pos="nt">
+<token>铁道部</token>
+</subword>
+<subword id="1" pos="m">
+<token>第十八</token>
+</subword>
+<subword id="2" pos="n">
+<token>工程局</token>
+</subword>
+<subword id="3" pos="m">
+<token>二</token>
+</subword>
+<subword id="4" pos="n">
+<token>处</token>
+</subword>
+</word>
+<word id="4" pos="v">
+<token>承担</token>
+</word>
+<word id="5" pos="v">
+<token>施工</token>
+</word>
+<word id="6" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.28">
+<answer instance="处.28" senseid=""/>
+<context>
+
+名副厅级领导和高级管理人员上岗，全省共有482个单位的891名干部通过竞争走上了<head>处</head>、科级领导岗位。
+
+</context>
+<postagging>
+<word id="0" pos="q">
+<token>名</token>
+</word>
+<word id="1" pos="b">
+<token>副厅级</token>
+</word>
+<word id="2" pos="n">
+<token>领导</token>
+</word>
+<word id="3" pos="c">
+<token>和</token>
+</word>
+<word id="4" pos="a">
+<token>高级</token>
+</word>
+<word id="5" pos="vn">
+<token>管理</token>
+</word>
+<word id="6" pos="n">
+<token>人员</token>
+</word>
+<word id="7" pos="v">
+<token>上岗</token>
+</word>
+<word id="8" pos="w">
+<token>，</token>
+</word>
+<word id="9" pos="n">
+<token>全省</token>
+</word>
+<word id="10" pos="v">
+<token>共有</token>
+</word>
+<word id="11" pos="m">
+<token>482</token>
+</word>
+<word id="12" pos="q">
+<token>个</token>
+</word>
+<word id="13" pos="n">
+<token>单位</token>
+</word>
+<word id="14" pos="u">
+<token>的</token>
+</word>
+<word id="15" pos="m">
+<token>891</token>
+</word>
+<word id="16" pos="q">
+<token>名</token>
+</word>
+<word id="17" pos="n">
+<token>干部</token>
+</word>
+<word id="18" pos="p">
+<token>通过</token>
+</word>
+<word id="19" pos="v">
+<token>竞争</token>
+</word>
+<word id="20" pos="v">
+<token>走</token>
+</word>
+<word id="21" pos="v">
+<token>上</token>
+</word>
+<word id="22" pos="u">
+<token>了</token>
+</word>
+<word id="23" pos="n">
+<token>处</token>
+</word>
+<word id="24" pos="w">
+<token>、</token>
+</word>
+<word id="25" pos="b">
+<token>科级</token>
+</word>
+<word id="26" pos="vn">
+<token>领导</token>
+</word>
+<word id="27" pos="n">
+<token>岗位</token>
+</word>
+<word id="28" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.29">
+<answer instance="处.29" senseid=""/>
+<context>
+
+集团审计监察<head>处</head>和法律保卫处配合财务结算中心审计、监督各单位资金使用情况。
+
+</context>
+<postagging>
+<word id="0" pos="n">
+<token>集团</token>
+</word>
+<word id="1" pos="vn">
+<token>审计</token>
+</word>
+<word id="2" pos="vn">
+<token>监察</token>
+</word>
+<word id="3" pos="n">
+<token>处</token>
+</word>
+<word id="4" pos="c">
+<token>和</token>
+</word>
+<word id="5" pos="n">
+<token>法律</token>
+</word>
+<word id="6" pos="n">
+<token>保卫处</token>
+</word>
+<word id="7" pos="v">
+<token>配合</token>
+</word>
+<word id="8" pos="n">
+<token>财务</token>
+</word>
+<word id="9" pos="vn">
+<token>结算</token>
+</word>
+<word id="10" pos="n">
+<token>中心</token>
+</word>
+<word id="11" pos="v">
+<token>审计</token>
+</word>
+<word id="12" pos="w">
+<token>、</token>
+</word>
+<word id="13" pos="v">
+<token>监督</token>
+</word>
+<word id="14" pos="r">
+<token>各</token>
+</word>
+<word id="15" pos="n">
+<token>单位</token>
+</word>
+<word id="16" pos="n">
+<token>资金</token>
+</word>
+<word id="17" pos="vn">
+<token>使用</token>
+</word>
+<word id="18" pos="n">
+<token>情况</token>
+</word>
+<word id="19" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+<instance id="处.30">
+<answer instance="处.30" senseid=""/>
+<context>
+
+本报讯锦州铁路公安<head>处</head>坚持把推行和深化警务公开活动作为加强队伍管理、塑造全新形象的有效手段和重要举措，各“窗口”单位及办案部门统一制作“执法公示板”，并把“公示板”内容通过车站、列车广播面向广大旅客公开；通过召开工作报告会、法律知识讲座的方法面向全体职工公开，从而提高了执法工作透明度，改善了警民关系。
+
+</context>
+<postagging>
+<word id="0" pos="r">
+<token>本报</token>
+</word>
+<word id="1" pos="Ng">
+<token>讯</token>
+</word>
+<word id="2" pos="n">
+<token>
+锦州铁路公安处
+</token>
+<subword id="0" pos="ns">
+<token>锦州</token>
+</subword>
+<subword id="1" pos="n">
+<token>铁路</token>
+</subword>
+<subword id="2" pos="n">
+<token>公安</token>
+</subword>
+<subword id="3" pos="n">
+<token>处</token>
+</subword>
+</word>
+<word id="3" pos="v">
+<token>坚持</token>
+</word>
+<word id="4" pos="p">
+<token>把</token>
+</word>
+<word id="5" pos="v">
+<token>推行</token>
+</word>
+<word id="6" pos="c">
+<token>和</token>
+</word>
+<word id="7" pos="v">
+<token>深化</token>
+</word>
+<word id="8" pos="n">
+<token>警务</token>
+</word>
+<word id="9" pos="vn">
+<token>公开</token>
+</word>
+<word id="10" pos="vn">
+<token>活动</token>
+</word>
+<word id="11" pos="v">
+<token>作为</token>
+</word>
+<word id="12" pos="v">
+<token>加强</token>
+</word>
+<word id="13" pos="n">
+<token>队伍</token>
+</word>
+<word id="14" pos="vn">
+<token>管理</token>
+</word>
+<word id="15" pos="w">
+<token>、</token>
+</word>
+<word id="16" pos="v">
+<token>塑造</token>
+</word>
+<word id="17" pos="b">
+<token>全新</token>
+</word>
+<word id="18" pos="n">
+<token>形象</token>
+</word>
+<word id="19" pos="u">
+<token>的</token>
+</word>
+<word id="20" pos="a">
+<token>有效</token>
+</word>
+<word id="21" pos="n">
+<token>手段</token>
+</word>
+<word id="22" pos="c">
+<token>和</token>
+</word>
+<word id="23" pos="a">
+<token>重要</token>
+</word>
+<word id="24" pos="n">
+<token>举措</token>
+</word>
+<word id="25" pos="w">
+<token>，</token>
+</word>
+<word id="26" pos="r">
+<token>各</token>
+</word>
+<word id="27" pos="w">
+<token>“</token>
+</word>
+<word id="28" pos="s">
+<token>窗口</token>
+</word>
+<word id="29" pos="w">
+<token>”</token>
+</word>
+<word id="30" pos="n">
+<token>单位</token>
+</word>
+<word id="31" pos="c">
+<token>及</token>
+</word>
+<word id="32" pos="vn">
+<token>办案</token>
+</word>
+<word id="33" pos="n">
+<token>部门</token>
+</word>
+<word id="34" pos="ad">
+<token>统一</token>
+</word>
+<word id="35" pos="v">
+<token>制作</token>
+</word>
+<word id="36" pos="w">
+<token>“</token>
+</word>
+<word id="37" pos="vn">
+<token>执法</token>
+</word>
+<word id="38" pos="n">
+<token>公示板</token>
+</word>
+<word id="39" pos="w">
+<token>”</token>
+</word>
+<word id="40" pos="w">
+<token>，</token>
+</word>
+<word id="41" pos="c">
+<token>并</token>
+</word>
+<word id="42" pos="p">
+<token>把</token>
+</word>
+<word id="43" pos="w">
+<token>“</token>
+</word>
+<word id="44" pos="n">
+<token>公示板</token>
+</word>
+<word id="45" pos="w">
+<token>”</token>
+</word>
+<word id="46" pos="n">
+<token>内容</token>
+</word>
+<word id="47" pos="p">
+<token>通过</token>
+</word>
+<word id="48" pos="n">
+<token>车站</token>
+</word>
+<word id="49" pos="w">
+<token>、</token>
+</word>
+<word id="50" pos="n">
+<token>列车</token>
+</word>
+<word id="51" pos="vn">
+<token>广播</token>
+</word>
+<word id="52" pos="v">
+<token>面向</token>
+</word>
+<word id="53" pos="b">
+<token>广大</token>
+</word>
+<word id="54" pos="n">
+<token>旅客</token>
+</word>
+<word id="55" pos="v">
+<token>公开</token>
+</word>
+<word id="56" pos="w">
+<token>；</token>
+</word>
+<word id="57" pos="p">
+<token>通过</token>
+</word>
+<word id="58" pos="vn">
+<token>召开</token>
+</word>
+<word id="59" pos="vn">
+<token>工作</token>
+</word>
+<word id="60" pos="n">
+<token>报告会</token>
+</word>
+<word id="61" pos="w">
+<token>、</token>
+</word>
+<word id="62" pos="n">
+<token>法律</token>
+</word>
+<word id="63" pos="n">
+<token>知识</token>
+</word>
+<word id="64" pos="n">
+<token>讲座</token>
+</word>
+<word id="65" pos="u">
+<token>的</token>
+</word>
+<word id="66" pos="n">
+<token>方法</token>
+</word>
+<word id="67" pos="v">
+<token>面向</token>
+</word>
+<word id="68" pos="n">
+<token>全体</token>
+</word>
+<word id="69" pos="n">
+<token>职工</token>
+</word>
+<word id="70" pos="v">
+<token>公开</token>
+</word>
+<word id="71" pos="w">
+<token>，</token>
+</word>
+<word id="72" pos="c">
+<token>从而</token>
+</word>
+<word id="73" pos="v">
+<token>提高</token>
+</word>
+<word id="74" pos="u">
+<token>了</token>
+</word>
+<word id="75" pos="vn">
+<token>执法</token>
+</word>
+<word id="76" pos="vn">
+<token>工作</token>
+</word>
+<word id="77" pos="n">
+<token>透明度</token>
+</word>
+<word id="78" pos="w">
+<token>，</token>
+</word>
+<word id="79" pos="v">
+<token>改善</token>
+</word>
+<word id="80" pos="u">
+<token>了</token>
+</word>
+<word id="81" pos="j">
+<token>警民</token>
+</word>
+<word id="82" pos="n">
+<token>关系</token>
+</word>
+<word id="83" pos="w">
+<token>。</token>
+</word>
+</postagging></instance>
+
+</lexelt>
+</corpus>

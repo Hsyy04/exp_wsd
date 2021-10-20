@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="ISO8859-1" ?>
+
+<!ELEMENT corpus (lexelt+)>
+<!ATTLIST corpus	  
+	  lang CDATA #REQUIRED>
+
+<!ELEMENT lexelt (instance+)>
+<!ATTLIST lexelt	  
+	  item CDATA #REQUIRED>          
+
+<!ELEMENT instance (answer+, context+, postagging+)>
+<!ATTLIST instance
+          id  ID #REQUIRED>
+
+<!ELEMENT answer EMPTY>
+<!ATTLIST answer 
+          instance  CDATA #IMPLIED
+          senseid  CDATA #IMPLIED>
+
+<!ELEMENT context (#PCDATA | head)*>
+
+<!ELEMENT head (#PCDATA)>
+
+<!ELEMENT postagging (word+)>
+
+<!ELEMENT word (token+)>
+<!ATTLIST word
+          id CDATA #REQUIRED  
+          pos  CDATA #IMPLIED>
+
+<!ELEMENT token (#PCDATA)>
+
+<!--  06-11-5
+-->
