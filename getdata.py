@@ -49,21 +49,21 @@ for word in lexelt:
 
         X = []
         # 前文
-        if tarid-5 < 0:
-            for i in range(5-tarid):
+        if tarid-3 < 0:
+            for i in range(3-tarid):
                 X.append([0.0 for i in range(40 )])
-        for i in range(max(tarid-5,0),tarid):
+        for i in range(max(tarid-3,0),tarid):
             vect=[0.0 for i in range(40 )]
             vect[pos_dict[pos[i]]]=1.0
             X.append(vect)
 
         # 后文(包括了本身)
-        for i in range(tarid,min(tarid+5,len(pos))):
+        for i in range(tarid,min(tarid+3,len(pos))):
             vect=[0.0 for i in range(40 )]
             vect[pos_dict[pos[i]]]=1.0
             X.append(vect)
-        if tarid+5 > len(pos):
-            for i in range(tarid+5-len(pos)):
+        if tarid+3 > len(pos):
+            for i in range(tarid+3-len(pos)):
                 X.append([0.0 for i in range(40 )])
 
         dataX.append(X)

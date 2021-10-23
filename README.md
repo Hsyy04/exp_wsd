@@ -1,15 +1,28 @@
-# 简单神经网络方法
-## 数据处理
-### xml读入 
-挺麻烦的
-### 使用词袋法对例句向量化  
-sklearn.feature_extraction.text.CountVectorizer() 
-
-**等环境配好再说，再见:(**
-
-# 一个看起来不错的传统方法SRCB-WSD
-*有写论文里说准确率被神经网络吊打*
+# 简单中文词义消歧系统
 
 
-# 基于上下文翻译
-*感觉这有点套娃吧......准确率也不如神经网络*
+## 支持消歧词语
+叫: ask, call, name, cry  
+...(更新中)
+
+## Demo 运行方式
+
+    py work.py --wd [需要消歧的词语] --st [需要消歧的句子]
+    or 
+    python3 work.py --wd [需要消歧的词语] --st [需要消歧的句子]
+
+例如，
+```bash
+    py work.py --wd 叫 --st  就是这卤牛肉，它能叫人白手起家成万元、十万元、百万元户
+    or
+    python3 work.py --wd 叫 --st  就是这卤牛肉，它能叫人白手起家成万元、十万元、百万元户
+```
+
+## 数据集
+SemEval-2007
+
+## 其他注释
+`work.py`      运行系统的接口
+`data.py`      训练数据预处理
+`train.py`     模型定义及其训练
+`getdata.py`    预处理测试数据，如果运行时添加 --test 1，则会在answer文件夹下生成一个key文件。    

@@ -4,19 +4,18 @@ import torch
 import torch.nn.functional as F
 from torch.optim import SGD
 import numpy as np
-from keras.utils.np_utils import to_categorical
 from torch.autograd import Variable
 from torch.utils.data import DataLoader,TensorDataset
 # from tensorboardX import SummaryWriter
 
 bactch_size=16
-epoch_num = 20
+epoch_num = 16
 
 class Net(nn.Module):
-    def __init__(self):
+    def __init__(self,):
         super(Net,self).__init__()
         self.LSTM=nn.LSTM(input_size=40,hidden_size=32,bidirectional=True,batch_first=True)
-        self.fc=nn.Linear(64*10,4)
+        self.fc=nn.Linear(64*6,4)
 
     def forward(self,input):
         x,_=self.LSTM(input)
@@ -48,25 +47,23 @@ def train(loader, model, optimizer, epoch):
                 epoch, idx * bactch_size, len(loader.dataset),
                 100. * idx / len(loader), loss.item()/len(loader.dataset)))
 
-def proc_data():
+def proc_data(word):
     dataX = []
     dataY = []
     data = []
-    class_flag = {'ask':0,'call':1,'name':2,'cry':3}
+    with open("datavec/"+word+"_flag.json","r") as f:
+        class_flag = json.load(f)
 
     # 读入数据
-    with open("datavec/jiao_data.json","r") as f:
+    with open("datavec/"+word+"_data.json","r") as f:
         dataX=json.load(f)
 
-    with open("datavec/jiao_ans.json","r") as f:
+    with open("datavec/"+word+"_ans.json","r") as f:
         data=json.load(f)
         for i in data :
             dataY.append(class_flag[i])
-    # dataY=to_categorical(dataY)
 
     # 创建数据集
-    # print(type(dataX))
-    # print(torch.tensor(dataX))
     dataset = TensorDataset(torch.tensor(dataX), torch.tensor(dataY))
     my_data = DataLoader(dataset=dataset, batch_size=bactch_size, shuffle=True)
 
@@ -90,14 +87,20 @@ def train_test(loader, model):
             loss, ok, len(loader.dataset), 100. * ok / len(loader.dataset)))
 
 if __name__ == "__main__":
-    model = Net()
-    data = proc_data()
-    model.cuda()
-    opt = SGD(model.parameters(), lr=0.01)
+    word_pool = []
+    with open('datavec/word_pool.json',"r") as f:
+        word_pool = json.load(f)
 
-    for i in range(epoch_num):
-        train(data, model, opt, i)
-        train_test(data, model)
+    for word in word_pool:
+        # 对于每一个词语创造一个模型
+        model = Net()
+        data = proc_data(word)
+        model.cuda()
+        opt = SGD(model.parameters(), lr=0.01)
 
-    torch.save(model, "net/jiao.pkl") 
+        for i in range(epoch_num):
+            train(data, model, opt, i)
+            train_test(data, model)
+
+        torch.save(model, "net/"+word+".pkl") 
     pass
