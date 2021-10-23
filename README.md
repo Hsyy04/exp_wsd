@@ -4,6 +4,8 @@
 叫: {"ask": 0, "name": 1, "call": 2, "cry": 3}
 处：{"aspect": 0, "place": 1, "department": 2} 
 
+*数据集中的其他词语需要自行训练。*
+
 ## Demo 运行方式
 
     py work.py --wd [需要消歧的词语] --st [需要消歧的句子]
