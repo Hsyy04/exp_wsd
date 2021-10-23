@@ -6,7 +6,8 @@ pos_dict = {'Ag':0,'a':1,'ad':2,'an':3,'b':4,'c':5,'Dg':6,'d':7,'e':8,'f':9,'g':
 word_pool = []
 
 # 打开训练数据
-dom = xml.dom.minidom.parse('trial\corpus\Chinese_train.xml')
+# dom = xml.dom.minidom.parse('trial\corpus\Chinese_train.xml')
+dom = xml.dom.minidom.parse('train\Chinese_train_pos.xml')
 root = dom.documentElement
 
 # 获取所有歧义词语
@@ -60,13 +61,23 @@ for word in lexelt:
                 X.append([0.0 for i in range(40 )])
         for i in range(max(tarid-3,0),tarid):
             vect=[0.0 for i in range(40 )]
-            vect[pos_dict[pos[i]]]=1.0
+            tem = ''
+            try:
+                tem = pos_dict[pos[i]]
+            except:
+                tem = pos_dict[pos[i][0]]
+            vect[tem]=1.0
             X.append(vect)
 
         # 后文(包括了本身)
         for i in range(tarid,min(tarid+3,len(pos))):
             vect=[0.0 for i in range(40 )]
-            vect[pos_dict[pos[i]]]=1.0
+            tem = ''
+            try:
+                tem = pos_dict[pos[i]]
+            except:
+                tem = pos_dict[pos[i][0]]
+            vect[tem]=1.0
             X.append(vect)
         if tarid+3 > len(pos):
             for i in range(tarid+3-len(pos)):
