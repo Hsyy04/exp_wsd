@@ -42,7 +42,12 @@ class task_demo():
         pos_dict = {'Ag':0,'a':1,'ad':2,'an':3,'b':4,'c':5,'Dg':6,'d':7,'e':8,'f':9,'g':10,'h':11,'i':12,'j':13,'k':14,'l':15,'m':16,'Ng':17,'n':18,'nr':19,'ns':20,'nt':21,'nz':22,'o':23,'p':24,'q':25,'r':26,'s':27,'Tg':28,'t':29,'u':30,'Vg':31,'v':32,'vd':33,'vn':34,'w':35,'x':36,'y':37,'z':38,'nx':39}
 
         lfenci = pseg.lcut(char_str)
-        tarid = lfenci.index(pseg.pair('叫', 'v'))
+        tarid = 0
+        for x in lfenci:
+            if x.word == self.word:
+                break
+            tarid+=1
+
         self.data = []
         # 前文
         if tarid-3 < 0:
@@ -76,14 +81,13 @@ class task_demo():
         with open("datavec/"+self.word+"_flag.json","r") as f:
             class_flag = json.load(f)
             map_id = list(class_flag.keys())
-        print(tar)
         tar = map_id[int(tar)]
         return tar
 
 
 parser = argparse.ArgumentParser(description='中文词义消歧系统')
 parser.add_argument('--wd', default='叫', help='需要消歧的词语')
-parser.add_argument('--st', default='就是这卤牛肉，它能叫人白手起家成万元、十万元、百万元户', help='需要消歧的句子')
+parser.add_argument('--st', default='简直是当理不让，入木三分，读来叫人击节', help='需要消歧的句子')
 parser.add_argument('--test', default=False, help='是否生成测试答案')
 args = parser.parse_args()
 

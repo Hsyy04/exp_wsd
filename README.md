@@ -1,9 +1,8 @@
 # 简单中文词义消歧系统
 
-
 ## 支持消歧词语
-叫: ask, call, name, cry  
-...(更新中)
+叫: {"ask": 0, "name": 1, "call": 2, "cry": 3}
+处：{"aspect": 0, "place": 1, "department": 2} 
 
 ## Demo 运行方式
 
