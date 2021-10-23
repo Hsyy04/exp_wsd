@@ -12,10 +12,10 @@ bactch_size=16
 epoch_num = 16
 
 class Net(nn.Module):
-    def __init__(self,):
+    def __init__(self,output_size):
         super(Net,self).__init__()
         self.LSTM=nn.LSTM(input_size=40,hidden_size=32,bidirectional=True,batch_first=True)
-        self.fc=nn.Linear(64*6,4)
+        self.fc=nn.Linear(64*6,output_size)
 
     def forward(self,input):
         x,_=self.LSTM(input)
@@ -93,14 +93,16 @@ if __name__ == "__main__":
 
     for word in word_pool:
         # 对于每一个词语创造一个模型
-        model = Net()
         data = proc_data(word)
+        with open("datavec/"+word+"_flag.json","r") as f:
+            class_flag1 = json.load(f)
+        model = Net(len(class_flag1.keys()))
         model.cuda()
         opt = SGD(model.parameters(), lr=0.01)
 
+        print(word)
         for i in range(epoch_num):
             train(data, model, opt, i)
             train_test(data, model)
 
         torch.save(model, "net/"+word+".pkl") 
-    pass
